@@ -2,6 +2,18 @@
 # An object of Flask class is our WSGI application.
 from flask import Flask, render_template
 
+import pandas as pd
+data = pd.read_csv("data/final-data.csv")
+
+inputstr=['मी काम करतोय']
+
+if (inputstr in data['comment'].values):
+  print()
+
+rslt_df = data[data['comment'].isin(inputstr)]
+print(type(rslt_df))
+print(rslt_df)
+
 # Flask constructor takes the name of
 # current module (__name__) as argument.
 app = Flask(__name__)
@@ -25,6 +37,10 @@ def blog():
 @app.route('/contact')
 def contact():
     return render_template("contact.html")
+
+@app.route('/model')
+def model():
+    return render_template("model.html")
 
 # main driver function
 if __name__ == '__main__':
