@@ -1,18 +1,7 @@
 # Importing flask module in the project is mandatory
 # An object of Flask class is our WSGI application.
 from flask import Flask, render_template
-
 import pandas as pd
-data = pd.read_csv("data/final-data.csv")
-
-inputstr=['मी काम करतोय']
-
-if (inputstr in data['comment'].values):
-  print()
-
-rslt_df = data[data['comment'].isin(inputstr)]
-print(type(rslt_df))
-print(rslt_df)
 
 # Flask constructor takes the name of
 # current module (__name__) as argument.
@@ -40,7 +29,23 @@ def contact():
 
 @app.route('/model')
 def model():
-    return render_template("model.html")
+	data = pd.read_csv("data/final-data.csv")
+
+	# inputstr=['मी काम करतोय']
+	# मी काम करतोय
+	marathi_sentence = input()
+	inputstr=[marathi_sentence]
+
+	if (inputstr in data['comment'].values):
+		print()
+
+	rslt_df = data[data['comment'].isin(inputstr)]
+	# rslt_df['comment']
+	# rslt_df['rating']
+	# rslt_df['comment marathi']
+	# rslt_df['stop word removed comment']
+	
+	return render_template("model.html")
 
 # main driver function
 if __name__ == '__main__':
