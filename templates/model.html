@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <!-- Input for ML model -->
+    <h1>Hello world!</h1>
+    <br>
+    <form action="{{ url_for('model')}}" method="post">
+        <input type="text" name="emotion_calculator" placeholder="Analysis" required="required">
+
+        <button type="submit" class="btn">Calculate sentiment</button>
+    </form>
+
+    <br>
+    <br>
+    <br>
+    <!-- {{ sentiment }} -->
+</body>
+</html>
