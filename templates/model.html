@@ -2,7 +2,7 @@
 <html>
 <body>
     <!-- Input for ML model -->
-    <h1>Hello world!</h1>
+    <h1>मी काम करतोय</h1>
     <br>
     <form action="{{ url_for('model')}}" method="post">
         <input type="text" name="emotion_calculator" placeholder="Analysis" required="required">
@@ -13,6 +13,12 @@
     <br>
     <br>
     <br>
-    <!-- {{ sentiment }} -->
+
+    {% if not result.empty %}
+        <h1>{{ result['comment'][0] }}</h1>
+        <h1>{{ result['rating'][0] }}</h1>
+        <h1>{{ result['comment marathi'][0] }}</h1>
+        <h1>{{ result['stop word removed comment'][0] }}</h1>
+    {% endif %}
 </body>
 </html>

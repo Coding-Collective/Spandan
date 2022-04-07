@@ -41,23 +41,20 @@ def model():
 	
     # For rendering results on HTML GUI
     marathi_sentence = request.form.get("emotion_calculator")
-    print(marathi_sentence)
-
-	# inputstr=['मी काम करतोय']
-	# marathi_sentence = input()
+    # print(marathi_sentence)
+	# मी काम करतोय
     inputstr=[marathi_sentence]
 
     if (inputstr in data['comment'].values):
         print()
     
     rslt_df = data[data['comment'].isin(inputstr)]
-    print(rslt_df)
 	# rslt_df['comment']
 	# rslt_df['rating']
 	# rslt_df['comment marathi']
 	# rslt_df['stop word removed comment']
 	
-    return render_template("model.html", sentiment=rslt_df['rating'])
+    return render_template("model.html", result=rslt_df.to_dict('list'))
 
 # main driver function
 if __name__ == '__main__':
