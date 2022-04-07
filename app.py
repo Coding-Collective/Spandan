@@ -24,17 +24,6 @@ def index():
 def about():
     return render_template("about.html")
 
-
-@app.route('/blog')
-def blog():
-    return render_template("blog.html")
-
-
-@app.route('/contact')
-def contact():
-    return render_template("contact.html")
-
-
 @app.route('/model', methods=['GET', 'POST'])
 def model():
     data = pd.read_csv("data/final-data.csv")

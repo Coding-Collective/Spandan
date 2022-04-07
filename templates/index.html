@@ -44,10 +44,7 @@
                     <a class="nav-link" href="{{ url_for('about') }}">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url_for('blog') }}">Blog</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ url_for('contact') }}">Contact</a>
+                    <a class="nav-link" href="{{ url_for('model') }}">Model</a>
                 </li>
                 <li class="nav-item">
                     <a id="side-search-open" class="nav-link" href="#">
@@ -119,7 +116,7 @@
             <!-- Section Title -->
             <div class="title-wrap mb-5" data-aos="fade-up">
                 <h2 class="section-title">
-                    Purpose of a sentiment analysis model – <a href="https://gettemplates.co" target="_blank">SpandanAI</a>
+                    Purpose of a sentiment analysis model – <a href="{{ url_for('index') }}" target="_blank">SpandanAI</a>
                 </h2>
                 <p class="section-sub-title">
                     Facts are objective expressions about entities, events and their properties. Opinions are usually subjective expressions that describe people's sentiments, appraisals or feelings toward entities, events and their properties.</p>
@@ -242,10 +239,10 @@
                         <!-- Portfolio Item -->
                         <div class="grid-item vintage" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="{{ url_for('static', filename='img/photo-2.jpg') }}" alt="portfolio-img" class="portfolio-item">
+                                <img src="{{ url_for('static', filename='img/photo-4.jpg') }}" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-2.jpg') }}" title="Ship">
+                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-4.jpg') }}" title="Ship">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://unsplash.com/" target="_blank">
@@ -263,10 +260,10 @@
                         <!-- Portfolio Item -->
                         <div class="grid-item creative grid-item-height" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="{{ url_for('static', filename='img/photo-4.jpg') }}" alt="portfolio-img" class="portfolio-item">
+                                <img src="{{ url_for('static', filename='img/photo-2.jpg') }}" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-4.jpg') }}" title="Tracy Portrait">
+                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-2.jpg') }}" title="Tracy Portrait">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://unsplash.com/" target="_blank">
@@ -284,10 +281,31 @@
                         <!-- Portfolio Item -->
                         <div class="grid-item creative" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="{{ url_for('static', filename='img/photo-3.jpg') }}" alt="portfolio-img" class="portfolio-item">
+                                <img src="{{ url_for('static', filename='img/photo-5.jpg') }}" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-3.jpg') }}" title="Guitar">
+                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-5.jpg') }}" title="Guitar">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>Chair</h4>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- End of Portfolio Item -->
+                        <!-- Portfolio Item -->
+                        <div class="grid-item creative" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="{{ url_for('static', filename='img/photo-7.jpg') }}" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-7.jpg') }}" title="Guitar">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://unsplash.com/" target="_blank">
@@ -305,10 +323,10 @@
                         <!-- Portfolio Item -->
                         <div class="grid-item vintage" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="{{ url_for('static', filename='img/photo-5.jpg') }}" alt="portfolio-img" class="portfolio-item">
+                                <img src="{{ url_for('static', filename='img/photo-3.jpg') }}" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-5.jpg') }}" title="Bookself">
+                                        <a class="img-pop" data-rel="lightcase" href="{{ url_for('static', filename='img/photo-3.jpg') }}" title="Bookself">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://unsplash.com/" target="_blank">
@@ -391,7 +409,7 @@
             </div>
             <div class="col-lg-4 offset-lg-1" data-aos="fade-left">
                 <h2 class="mb-4">
-                    Detects the emotional tone behind text, offering key insights into customer satisfaction.
+                    Detect the emotional tone behind text, offering key insights into customer satisfaction.
                 </h2>
                 <p class="mb-4">Contact us for your sentiment analysis needs!</p>
 
