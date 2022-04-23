@@ -39,7 +39,7 @@ def model():
     
     rslt_df = data[data['comment'].isin(inputstr)]
 	# rslt_df['comment']
-	# rslt_df['rating']
+    # print(rslt_df['rating'])
 	# rslt_df['comment marathi']
 	# rslt_df['stop word removed comment']
 	

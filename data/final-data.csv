@@ -1,801 +1,801 @@
 ,comment,rating,comment marathi,stop word removed comment
-0,तो पळाला हसत हसत,1,to palala hasat hasat,palala hasat hasat
-1,मी पडलो मला लागलं,-1,me padlo mala laagla,padlo laagla
-2,मला माहित आहे,0,mala mahit aahe,mahit
-3,मी हरलो,-1,me harlo,harlo
-4,मी काम करतोय,0,me kaam karoty,karoty
-5,मी ठीक आहे,0,me theek aahe,theek
-6,आम्ही जिंकलो,1,aamhi jinklo,jinklo
-7,आपण सगळे जिंकलो,1,aapan sagle jinklo,jinklo
-8,मला कॉल कर,0,mala call kar,call kar
-9,मी तुला कॉल करतो,0,me tula call karto,tula call karto
-10,आम्हाला कॉल कर,0,amhala call kar,amhala call kar
-11,तू जेवलास का?,0,tu jevlas ka ,tu jevlas
-12,एकदम छान घडी घातलिस,1,ekdum chan ghadi ghatlis ,ekdum chan ghadi ghatlis
-13,बाहेर हो,0,baher ho,baher
-14,दूर हो माझ्या नजरे समोरून,-1,dur ho mjhya najare samorun,dur mjhya najare samorun
-15,मला मदत कर,0,mala madat kar,madat kar
-16,माझी मदत करा,0,majhi madat kara,madat kara
-17,मला वाचवा,0,mala vachva,vachva
-18,मला वाचव,0,mala vachav,vachav
-19,मी हॅरी आहे,0,me harry aahe,harry
-20,माझं नाव हॅरी आहे,0,majha naav harry aahe,naav harry
-21,मी जाडा आहे,0,me jaada aahe,jaada
-22,जाडा असलो तरी खूश आहे,1,jaada also tari khush aahe ,jaada also khush
-23,मी आजारी आहे,-1,me aajari aahe,aajari
-24,मला ताप आला आहे खूप,-1,mala taap aala aahe khoop,taap khoop
-25,माझं पोट दुखतय,-1,majha pot dukhtay,pot dukhtay
-26,ठीक आहे,0,theek aahe,theek
-27,सगळं ठीक होईल,1,sagla theek hoil,sagla theek
-28,झक्कास,1,jhakaas,jhakaas
-29,एकदम झक्कास,1,ekdum jhakaas,ekdum jhakaas
-30,खूप मजा आली,1,khoop maja aali,khoop maja
-31,आम्हाला काळजी आहे,1,aamhala kalji aahe,aamhala kalji
-32,आपण हरलो,-1,aapan harlo,harlo
-33,आम्ही हरलो,-1,aamhi harlo,harlo
-34,"वेलकम, प्लीज आत या",0,welcome please aat yaa,welcome please aat yaa
-35,हे कोणी खाल्लं?,0,he koni khalla ,koni khalla
-36,एकदम मस्त बनवलं होतं,1,ekdum mast banavla hota,ekdum mast banavla
-37,कोण पळाला?,0,kon palala ,palala
-38,का नाही?,0,ka nahi ,
-39,अजिबात नाही,-1,ajjibaat nahi,ajjibaat
-40,मागे हो,0,maage ho,maage
-41,हट कुत्र्या,-1,hatt kutrya,hatt kutrya
-42,शांत रहा,0,shanta raha,shanta raha
-43,तू थोडा गप राहशील का?,0,tu thoda gap rahashil ka ,tu thoda gap rahashil
-44,मजा करा,1,maja kara,maja kara
-45,आपण मजा करूया,1,aapan maja karuya,maja karuya
-46,खूप मजा येत आहे मला,1,khoop maja yet aahe mala,khoop maja
-47,तुम्ही मजा करत आहात ना?,0,tumhi maja karat aahat na ,maja aahat
-48,मी विसरलो,0,me visarlo,visarlo
-49,"सॉरी, मी विसरलो",0,sorry me visarlo,sorry visarlo
-50,मी पूजा करतो,1,me pooja karto,pooja karto
-51,मी ते वापरतो,0,me te vaparto,vaparto
-52,मी प्रयत्न करीन,1,me prayatna karin,prayatna
-53,मी गरीब आहे,-1,me gareeb aahe,gareeb
-54,मी श्रीमंत आहे,1,me shrimant aahe,shrimant
-55,खूप गरमी आहे,-1,khoop garmi aahe,khoop garmi
-56,काय मस्त वातावरण आहे,1,kay mast vatavaran aahe,mast vatavaran
-57,"हॅरी ला किस कर, तो स्मार्ट आहे",1,harry la kiss kar to smart aahe,harry la kiss kar smart
-58,हे नवीन आहे,0,he naveen aahe ,naveen
-59,सोड मला,0,sod mala,sod
-60,ती मेली,-1,ti meli,meli
-61,तू पण मर जाऊन,-1,tu pan mar jaun,tu mar jaun
-62,"ए सांगतोस काय, एकदम सही यार",1,ay sangtos kay ekdum sahi yaar,ay sangtos ekdum sahi yaar
-63,ते जिंकले,1,te jinkle,jinkle
-64,ते हरले,-1,te harle,harle
-65,लॉस झालं यार,-1,loss jhala yaar,loss yaar
-66,खूप प्रॉफिट झाला यार,1,khoop profit jhala yaar,khoop profit yaar
-67,हॅरी हरला ना,-1,harry harla na,harry harla
-68,हॅरी जिंकला ना,1,harry jinkla na,harry jinkla
-69,तो रडला,-1,to radla,radla
-70,ती हसली,1,ti hasli,hasli
-71,तो बोलला ,0,to bolla,bolla
-72,ती लाजली,0,ti lajli,lajli
-73,हे वापर,0,he vapar,vapar
-74,ते नको वापरुस,-1,te nako vaprus,nako vaprus
-75,बघ मला,0,bagh mala,bagh
-76,बघून घेईन तुला,-1,baghun ghein tula,baghun ghein tula
-77,कोण आहेस तू?,0,kon aahes tu ,aahes tu
-78,तूच हसला ना?,0,tuch hasla na ,tuch hasla
-79,किती गोड दिसते ती,1,kiti god diste ti,kiti god diste
-80,खूप सुंदर आहे ती,1,khoop sundar aahe ti,khoop sundar
-81,पक्षी उडत आहे,0,pakshi udat aahe,pakshi udat
-82,इथे ये,0,ithe ye,ithe ye
-83,खाली बस आणि माझ्यासोबत बोल,0,khali bas ani majhyasobat bol,khali bas ani majhyasobat bol
-84,कुत्रे किती आवाज करतात,0,kutre kiti aavaj kartaat,kutre kiti aavaj kartaat
-85,शी! मला नाही आवडत ते,-1,shi mala nahi aavdat te,shi aavdat
-86,रडू नको,0,radu nakos,radu nakos
-87,मरु नकोस,0,maru nakos,maru nakos
-88,आज आपण फिरायला जाऊया,1,aaj apan firayla jauya,apan firayla jauya
-89,बाहेर जाऊया आज,1,baher jauya aaj,baher jauya
-90,रेडी हो,0,ready ho,ready
-91,तय्यार हो,0,tayar ho,tayar
-92,ते पकड,0,te pakad,pakad
-93,तू घाणेरडा आहेस,-1,tu ghanerda aahes,tu ghanerda aahes
-94,ते धर,0,te dhar ,dhar
-95,तो सेक्सी आहे,1,to sexy aahe,sexy
-96,ती सेक्सी आहे,1,ti sexy aahe,sexy
-97,तो हॉट आहे,1,to hot aahe,
-98,ती हॉट आहे,1,ti hot aahe,
-99,हे कसं झालं?,0,he kasa jhala ,kasa
-100,तो कमवत नाही,-1,to kamvat nahi,kamvat
-101,तो खूप कमवतो,1,to khoop kamavto,khoop kamavto
-102,तो माझा आहे,0,to majha aahe,
-103,ती माझी आहे,0,ti majhi aahe,
-104,झक्क मारली आणि इथे आलो,-1,jhakk marli ani ithe aalo,jhakk marli ani ithe aalo
-105,कसं चाललंय?,0,kasa challay ,kasa challay
-106,मस्त चाललंय,1,mast challay,mast challay
-107,मी जिंकेन,1,me jinken,jinken
-108,मी नाही जिंकणार,-1,me nahi jinknaar,jinknaar
-109,तिच्यासाठी जींकेन,0,tichyasathi jinken,tichyasathi jinken
-110,तिच्यामुळे हरलो,-1,tichyamule harlo,tichyamule harlo
-111,मी त्याला मारले,-1,me tyala marle,marle
-112,त्याने मला मारले,-1,tyane mala maarle ,tyane maarle
-113,मी तुला बघितलं,0,me tula baghitla,tula baghitla
-114,त्याने मला बघितलं,0,tyane mala baghitla,tyane baghitla
-115,तिने मला बघितलं ,0,tine mala baghitla,tine baghitla
-116,मी त्यांना बघितलं,0,me tyanna baghitla,baghitla
-117,किती जोरात ओरडतोस,0,kiti joraat oradtos,kiti joraat oradtos
-118,किती छान ओरडतोस,1,kiti chaan oradtos,kiti chaan oradtos
-119,मी बोर झालो आहे,0,me bore jhalo aahe,bore
-120,मला बोर होतंय,-1,mala bore hotay,bore hotay
-121,कंटाळा आलंय साला,-1,kantala aalay sala,kantala aalay sala
-122,एकदम चींदी आहे,1,ekdum chindi aahe,ekdum chindi
-123,खूप सुंदर आहे ते चित्र,1,khoop sundar aahe te chitra,khoop sundar chitra
-124,हे आपलं आहे,0,he apla aahe,apla
-125,हा कचरा वास मारतो,-1,ha kachra vaas marto,kachra vaas marto
-126,जाऊदे ना,0,jaude na,jaude
-127,मला जाऊद्या ना घरी,0,mala jaudya na ghari,jaudya ghari
-128,मला आत घ्या,0,mala aat ghya,aat ghya
-129,तुला कापून टाकेन,-1,tula kapun taken,tula kapun taken
-130,धमकी देतोस का रे?,-1,dhamki detos ka re ,dhamki detos re
-131,निघून जा इथून,0,nighun jaa ithun,nighun jaa ithun
-132,टकला तुझा बाप,-1,taklya tujha baap,taklya tujha baap
-133,हैवान आहेस,-1,haivaan aahes,haivaan aahes
-134,शैतान आहेस,-1,shaitan aahes ,shaitan aahes
-135,तू राक्षस आहेस,-1,tu rakshas aahes,tu rakshas aahes
-136,तू देवी आहेस,1,tu devi aahes,tu devi aahes
-137,तू सुंदर आहेस,1,tu sundar aahes,tu sundar aahes
-138,तू खूप नॉटी आहेस,0,tu khoop naughty aahes,tu khoop naughty aahes
-139,तुला समजत नाही का?,0,tula samjat nahi ka ,tula samjat
-140,एकदम चविष्ट जेवण आहे,1,ekdum chavishta jevan aahe,ekdum chavishta jevan
-141,खूप मजा आली ते खाऊन,1,khoop maja aale te khaun,khoop maja khaun
-142,खूप घान होती ती डिश,-1,khoop ghaan hoti ti dish,khoop ghaan dish
-143,माझं पोट दुखायला लागलं,-1,majha pot dukhayla laagla,pot dukhayla laagla
-144,तो खोटारडा आहे,-1,to khotarda aahe,khotarda
-145,ती खोटारडी आहे,-1,ti khotardi aahe,khotardi
-146,ती हरामी आहे,-1,ti harami aahe,harami
-147,तो हरामी आहे,-1,to harami aahe,harami
-148,मला भूक लागली,0,mala bhook lagli,bhook lagli
-149,तुला भूक लागली का?,0,tula bhook lagli ka ,tula bhook lagli
-150,काय फालतुगिरी आहे ही?,-1,kay faltugir aahe hi ,faltugir hi
-151,लय भारी हा,1,lay bhari ha,lay bhari
-152,भारीच दिसतेस,1,bharich distes,bharich distes
-153,नुसता जाडा झालाय,-1,nusta jada jhalay,nusta jada jhalay
-154,रेडी झालास का?,0,ready jhalas ka ,ready jhalas
-155,रेडी झालीस का?,0,ready jhalis ka ,ready jhalis
-156,तुझाच आहे मी,1,tujhach aahe me,tujhach
-157,तुझीच आहे मी,1,tujhich aahe me,tujhich
-158,तो रडला,-1,to radla,radla
-159,ती रडली,-1,ti radli,radli
-160,परत बघ,0,parat bagh,parat bagh
-161,किती स्वीट आहे ती,1,kiti sweet aahe ti,kiti sweet
-162,तो किती हँडसम आहे,1,to kiti handsome aahe,kiti handsome
-163,मी नाही आहे हुशार,0,me nahi aahe hushaar,hushaar
-164,तो मूर्ख आहे,-1,to murkha aahe,murkha
-165,ती मूर्ख आहे,-1,ti murkha aahe,murkha
-166,प्लीज चूप रहा,0,please chup raha,please chup raha
-167,चूप रहा नाहीतर मारेन तुला,-1,chup raha nahitar maren tula,chup raha nahitar maren tula
-168,ती म्हातारी आहे,0,ti mhatari aahe,mhatari
-169,तो म्हातारा आहे,0,to mhatara aahe,mhatara
-170,बाजूला हो,0,bajula ho,bajula
-171,बस ने जा,0,bus ne jaa,bus ne jaa
-172,ही बस किती साफ आहे,1,hi bus kiti saaf aahe,hi bus kiti saaf
-173,ही बस घाणेरडी आहे,-1,hi bus ghanerdi aahe,hi bus ghanerdi
-174,मला कॉल कर,0,mala call kar,call kar
-175,मी तुला कॉल करीन,0,me tula call karin,tula call
-176,शाब्बास,1,shabbas ,shabbas
-177,"वाह, काय बात आहे",1,wah kay baat aahe,wah baat
-178,टाइम संपला,0,time sampla,time sampla
-179,वेळ संपली,0,vel sampli,vel sampli
-180,मी छान आवाज काढतो,1,me chaan aavaj kadhto,chaan aavaj kadhto
-181,माझा घसा बसला आहे,-1,majha ghasa basla aahe,ghasa
-182,मी विसरलो,0,me visarlo,visarlo
-183,सॉरी माझी चूक झाली,1,sorry majhi chuk jhali,sorry chuk
-184,मला माफ करा,1,mala maaf kara,maaf kara
-185,तू बरोबर आहेस,1,tu barobar aahes,tu barobar aahes
-186,तोच मार्ग बरोबर आहे,1,toch marg barobar aahe,toch marg barobar
-187,तू कुठे आहेस?,0,tu kuthe aahes,tu kuthe aahes
-188,तो जाडा आहे,0,to jada aahe,jada
-189,तू जाडी आहे,0,tu jadi aahes,tu jadi aahes
-190,सगळे येडे आहे,-1,sagle yede aahe,yede
-191,तू खरच बेकार आहेस,-1,tu kharach bekaar aahes,tu kharach bekaar aahes
-192,तुला काम धंदा नाहीये,-1,tula kaam dhanda nahiye,tula dhanda nahiye
-193,तू मरून जा,-1,tu marun jaa,tu marun jaa
-194,काय मस्त दिसतोस,1,kay mast distos,mast distos
-195,काय रापचीक दिसतेस,1,kay rapchik distes,rapchik distes
-196,तू सुंदर गीत गातेस,1,tu sundar geet gaates,tu sundar geet gaates
-197,तू राणी सारखी दिसतेस,1,tu rani sarkhi distes,tu rani sarkhi distes
-198,तू राजा सारखा दिसतोस,1,tu raja sarkha distos,tu raja sarkha distos
-199,आपण लग्न करूया,1,apan lagna karuya,apan lagna karuya
-200,तिला गाणं आवडतं का?,0,tila gaana aavadta ka ,gaana aavadta
-201,तू गातेस का?,0,tu gaates ka ,tu gaates
-202,तू  गातोस का?,0,tu gaatos ka ,tu gaatos
-203,किती छान गातेस,1,kiti chaan gaates,kiti chaan gaates
-204,किती अप्रतिम गातोस,1,kiti apratim gaatos,kiti apratim gaatos
-205,तू शेव कर,0,tu shave kar,tu shave kar
-206,हे बघ,0,he bagh,bagh
-207,तू हे सुंदर फूल बघ,1,tu he sundar fool bagh,tu sundar fool bagh
-208,ती तुला आवडली का?,1,ti tula aavadli ka ,tula aavadli
-209,तू त्रास नको देऊस,0,tu traas nako deus,tu traas nako deus
-210,त्रास दिलास तर मारेन,-1,traas dilas tar maren,traas dilas maren
-211,गपचुप चालता हो,-1,gapchup chalta ho,gapchup chalta
-212,निघून जा कायमचा ,-1,nighun jaa kayamcha,nighun jaa kayamcha
-213,आम्ही मुलं आहोत,0,amhi mula aahot,amhi mula aahot
-214,तुम्ही मुली आहात,0,tumhi muli aahat,muli aahat
-215,ती मला पायजे ,0,ti mala payje,payje
-216,ती माझीच आहे,0,ti majhich aahe,majhich
-217,तो माझाच आहे,0,to majhach aahe,majhach
-218,माझी मदत करा प्लीज,0,majhi madat kara please,madat kara please
-219,मदत केल्याबद्दल धन्यवाद,1,mada kelyabaddal dhanyavaad,mada kelyabaddal dhanyavaad
-220,मी थांबतो,0,me thambto ,thambto
-221,तू थांबशिल का?,0,tu thambshil ka ,tu thambshil
-222,आपण काम करू,0,aapan kaam karu,
-223,आम्ही मजेत आहोत,1,amhi majet aahot,amhi majet aahot
-224,तुम्ही का इतके उदास?,-1,tumhi ka itke udaas ,itke udaas
-225,तुला वाईट वाटलं का?,0,tula vait vatla ka ,tula vait vatla
-226,मला वाईट वाटलं,-1,mala vait vatla,vait vatla
-227,मला नाही जमत,-1,mala nahi jamat,jamat
-228,ती कोण आहे?,0,ti kon aahe,
-229,ती हॉट आहे,1,ti hot aahe,
-230,तो हॉट आहे,1,to hot aahe,
-231,ती का ओरडली?,0,ti ka oradli ,oradli
-232,किती कर्कश आवाज आहे तिचा ,-1,kiti karkash aavaj aahe ticha,kiti karkash aavaj ticha
-233,तू ठरव,0,tu tharav,tu tharav
-234,तुला जेल मध्ये टाकेन,-1,tula jail madhe taken,tula jail madhe taken
-235,झालं का तुझं?,0,jhala ka tujha ,tujha
-236,तुझं मस्त झालं,1,tujha mast jhala,tujha mast
-237,तू भांडू नकोस,1,tu bhandu nakos,tu bhandu nakos
-238,भांडलास तर वाईट होईल,-1,bhandlas tar vait hoil,bhandlas vait
-239,मारून टाकेन तुला मी,-1,marun taken tula me,marun taken tula
-240,तू देव आहेस का?,1,tu dev aahes ka ,tu dev aahes
-241,देवासारखा आलास बघ,1,devasarkha aalas bagh,devasarkha aalas bagh
-242,तू तर दानव आहेस,-1,tu tar danav aahes,tu danav aahes
-243,माफ कर मला,1,maaf kar mala,maaf kar
-244,मी तुला माफ केलं,1,me tula maaf kela,tula maaf
-245,जा कपडे बदल,0,jaa kapde badal,jaa kapde badal
-246,कपडे घान आहे,-1,kapde ghaan aahe,kapde ghaan
-247,कपडे छान आहे,1,kapde chaan aahe,kapde chaan
-248,सुरू कर गाडी,0,suru kar gaadi,kar gaadi
-249,जा मस्ती करा,1,jaa masti kara,jaa masti kara
-250,आपण मस्ती करूया,1,apan masti karuya,apan masti karuya
-251,माझी गाडी कुठे आहे?,0,majhi gaadi kuthe aahe ,gaadi kuthe
-252,बस ना,0,bas na,bas
-253,बसून बोलूया ना,0,basun boluya na,basun boluya
-254,आपण बसुया का?,0,apan basuya ka ,apan basuya
-255,तुला वाचता येतं का?,0,tula vachta yeta ka ,tula vachta yeta
-256,तू वाचवलं मला,1,tu vachavlas mala,tu vachavlas
-257,तू त्रास दिलास मला,-1,tu traas dilas mala,tu traas dilas
-258,तुझ्याकडे दारू आहे का?,0,tujhyakade daru aahe ka ,tujhyakade daru
-259,किती महाग आहे ही गाडी,0,kiti mahaag aahe hi gadi,kiti mahaag hi gadi
-260,तू खुश आहेस ना?,0,tu khush aahes na ,tu khush aahes
-261,मी जाम खूश आहे,1,me jaam khush aahe,jaam khush
-262,तू खूप तरुण आहे,1,to khoop tarun aahe,khoop tarun
-263,तू कसा इथे आलास?,0,tu kasa ithe aalas ,tu kasa ithe aalas
-264,तू तर हीरो आहेस,1,tu tar hero aahes,tu hero aahes
-265,तू किती उंच झालास,1,tu kiti uncha jhalas,tu kiti uncha jhalas
-266,"शाब्बास, उंची गाठली",1,shabbas unchi gathlis,shabbas unchi gathlis
-267,तुला नाचता येतं का?,0,tula nachta yete ka ,tula nachta yete
-268,मी तर डान्स मध्ये एक्स्पर्ट आहे,1,me tar dance madhe expert aahe,dance madhe expert
-269,एकदम सुंदर पिक्चर आहे,1,ekdam sundar picture aahe,ekdam sundar picture
-270,मुलुंड पश्चिम किती मोठा आहे,1,mulund west kiti motha ahe,mulund west kiti motha ahe
-271,क्या बात.. मूवी एकदम मस्त.. मजा आली,1,kya baat movie ekdam mast maja aali ,kya baat movie ekdam mast maja
-272,छान आहे मूवी,1,chaan aahe movie,chaan movie
-273,तू चांगला आहेस,1,tu changla aahes,tu changla aahes
-274,गजानन चा वडापाव सगळ्यात बेस्ट आहे,1,gajanan cha vadapav saglyat best ahe,gajanan cha vadapav saglyat best ahe
-275,आज च दिवस खूप छान आहे,1,ajj cha divas khup chaan aahe,ajj cha divas khup chaan
-276,तू किती मस्त दिसतेस,1,tu kiti masth disthes,tu kiti masth disthes
-277,Kfc चा बर्गर खूप मस्त आहे,1,kfc cha burger khup mast ahe,kfc cha burger khup mast ahe
-278,काका हलवाई ची मिठाई खूप छान आहे,1,kaka halwai chi mithai khup chaan ahe ,kaka halwai chi mithai khup chaan ahe
-279,मला नाचायला खूप आवडतं,1,mala nachyla khup awdata,nachyla khup awdata
-280,तू खूपच हुशार आहेस,1,tu khup ch intelligent ahes,tu khup ch intelligent ahes
-281,हा हीरो अॅक्च्युअली चांगला अॅक्ट करतो,1,ha hero actually changla act karto,hero actually changla act karto
-282,मुंबई खूप छान शहर आहे,1,mumbai khup chaan shahar aahe,mumbai khup chaan shahar
-283,मुंबई राहायला खूप छान शहर आहे,1,mumbai rahayala farah chaan aahe,mumbai rahayala farah chaan
-284,घरातील पडदे सुंदर आहेत,1,gharatil padade sundar aahet,gharatil padade sundar
-285,टीव्ही मधील बातम्या हे सदर चांगले आहे,1,t v madhil batmya he sadar changle aahe,t v madhil batmya sadar changle
-286,शरीरासाठी मॉर्निंग वॉक चांगला आहे,1,sharirasathi morning walk changle aahe,sharirasathi morning walk changle
-287,प्रायव्हेट शाळेतील सोयी छान आहेत,1,private shaletil soyi chan aahet,private shaletil soyi chan
-288,लता मंगेशकर यांनी गायलेली गीत फारच सुंदर आणि ऐकावेसे वाटते,1,lata mangeshkar yani gaylele git farach sundar aani aikavese vatate ,lata mangeshkar gaylele git farach sundar aikavese vatate
-289,सकाळी दूध पीने चांगले आहे,1,sakali dudh pine changle aahe,sakali dudh pine changle
-290,रोज सकाळी लवकर उठावे ,1,roj sakali lavkar uthave,roj sakali lavkar uthave
-291,ही डिश चांगली आहे,1,hee dish changli aahe,dish changli
-292,हा गेम एकदम मस्त आहे,1,ha game ekdum mast aahe,game ekdum mast
-293,भाऊ कदम माझा फेवरेट आहे,1,bhau kadam majha favourite aahe,bhau kadam favourite
-294,खेळायला मजा येते,1,khelayla maja yete,khelayla maja yete
-295,आजचा दिवस खूप घाण आहे,1,aaj cha divas khoop ghaan aahe,cha divas khoop ghaan
-296,मॉर्निंग वॉक करायला कंटाळा येतो,-1,morning walk karayla kantala yeto,morning walk karayla kantala yeto
-297,सकाळी दारू नसते प्यायची,1,sakali daru naste pyaychi,sakali daru naste pyaychi
-298,ही डिश फालतू आहे,-1,hee dish faltu aahe,dish faltu
-299,तो तर विलन दिसतो,-1,to tar villian disto,villian disto
-300,एकदम बेचव फ्रॉईड राइस मिळतो इथे,-1,ekdam bechav fried rice milto ithe,ekdam bechav fried rice milto ithe
-301,मुलुंड पूर्व खूप कॅंजेस्तेड आहे,-1,mulund east khup congested ahe,mulund east khup congested ahe
-302,बकवास फ्रॉईड राइस,-1,bakwas fried rice ,bakwas fried rice
-303,मला नाही आवडला फ्रॉईड राइस,-1,mala nahi aavdala fried rice,aavdala fried rice
-304,तू हरामखोर आहेस,-1,tu haramkhor aahes,tu haramkhor aahes
-305,भांडुप मध्ये रिक्षा मिळतच नाही,-1,bhandup madhe rickshaw milatch nahi,bhandup madhe rickshaw milatch
-306,ती तुला पटणार नाही,-1,ti tula patnar nhi,tula patnar nhi
-307,तो एवढा चांगला गात नाही,-1,tho evdha changla gaath naahi,tho evdha changla gaath naahi
-308,रॉयल ची बिर्यानी खूप बकवास आहे,-1,royal che biryani khup bakwaas ahe,royal che biryani khup bakwaas ahe
-309,शिरूर चा वडापाव चांगला नसतो,-1,shirur cha vada pav changla nasto ,shirur cha vada pav changla nasto
-310,मला नॉन व्हेज खायला आवडत नाही,-1,mala non veg khayla awdat nahi,non veg khayla awdat
-311,हॅरी आजकाल विचित्र वागत आहे,-1,harry aazkal weird vaghat aahe,harry aazkal weird vaghat
-312,त्या मूवी मध्ये खूप ओव्हर अक्टिंग केली होती,-1,tya movie madhe khup over acting keli hoti,movie madhe khup over acting
-313,दारू शरीरासाठी नुकसानकारक आहे,-1,daaru sharira sathi nuksaankarak aahe,daaru sharira sathi nuksaankarak
-314,मुंबईची गर्दी फारच बेकार आहे,-1,mumbaichi gardi farach bekar aahe,mumbaichi gardi farach bekar
-315,घराला भडक रंग दिलेले बेकार दिसतात,-1,gharala bhadak rang dilele bekar disatat,gharala bhadak rang dilele bekar disatat
-316,टीव्ही मधील क्राईम स्टोरी ही सीरियल बेकार आहे,-1,t v madhil crime stories hi serial bekar aahe ,t v madhil crime stories hi serial bekar
-317,दारू शरीरासाठी चांगली नाही,-1,daru sharirasathi changli nahi,daru sharirasathi changli
-318,सरकारी शाळेत चांगल्या सोयीच नसतात ,-1,govt sharlet changlya soyich nastat,govt sharlet changlya soyich nastat
-319,बेसूर गायलेली गीत नकोस वाटते,-1,besur gayalele git nakose vatate ,besur gayalele git nakose vatate
-320,चहा पिणे बेकार,-1,chaha pine bekar,chaha pine bekar
-321,जास्त वेळ झोपू नये,-1,jasta vel zopu naye,jasta vel zopu naye
-322,इथे कपडे बकवास मिळतात,-1,ithe kapde bakwas miltat,ithe kapde bakwas miltat
-323,इथे गेम सीडी नाही मिळत,-1,ithe game cd nahi milat,ithe game cd milat
-324,बद्रिके ला अक्टिंग येत नाही यार,-1,badrike la acting yet nahi yaar,badrike la acting yaar
-325,खेळताना लागू शकतं,-1,kheltana lagu shakta,kheltana lagu shakta
-326,मला चिकन आवडतं,1,mala chiken aavadta,chiken aavadta
-327,हॅरी किती रोमँटिक आहे,1,harry kiti romantic aahe,harry kiti romantic
-328,दारू तर नशा आहे,0,daru tar nasha aahe,daru nasha
-329,बिर्यानी माझी आवडती आहे,1,biryani majhi favourite aahe,biryani favourite
-330,थिएटर मध्ये नाटक बघुया,0,theatre madhe natak baghuya,theatre madhe natak baghuya
-331,नाटक अप्रतिम होतं,1,natak apratim hota,natak apratim
-332,चहा तर जिंदगी आहे,1,chaha tar zindagi aahe,chaha zindagi
-333,जास्त झोपलो तर फ्रेश वाटते,1,jasta zoplo tar fresh vatte,jasta zoplo fresh vatte
-334,सरकार खराब आहे,-1,government kharab aahe,government kharab
-335,इथे कसलीच सोय नाहीये,-1,ithe kaslich soy nahiye,ithe kaslich soy nahiye
-336,बद्रिके छान अभिनय करतो,1,badrike chaan abhinay karto,badrike chaan abhinay karto
-337,मुंबई सगळ्यात छान शहर आहे,1,mumbai saglyat chaan shahar aahe,mumbai saglyat chaan shahar
-338,टीव्ही बघण्यात आनंद मिळतो,1,tv baghnyaat ananda milto,tv baghnyaat ananda milto
-339,गर्दी मध्ये श्वास घेता येत नाही,-1,gardi madhe shvaas gheta yet nahi,gardi madhe shvaas gheta
-340,हे सगळं इतर कुठल्याही दुकानात मिळेल,0,he sagla itar kuthalya hi dukanat milel,sagla itar kuthalya hi dukanat milel
-341,देशमुख गार्डन 8 वाजता उघडतं,0,deshmukh garden 8 vajta ughadta,deshmukh garden 8 vajta ughadta
-342,नोवेलटी शॉप मध्ये सगळंच मिळेल,0,novelty shop madhye saglech milel,novelty shop madhye saglech milel
-343,नोवेलटी शॉप मध्ये सगळ्या वस्तू मिळतात,0,novelty shop madhye sagalya vastu milatat,novelty shop madhye sagalya vastu milatat
-344,तिथे कुत्रा झोपला आहे,0,tithe kutta zopla aahe,tithe kutta zopla
-345,मुलुंड नंतर नाहूर स्टेशन ची गरज आहे का,0,mulund natr nahur station chi garaj ahe ka,mulund natr nahur station chi garaj ahe
-346,खालून भाजी आन,0,khalun bhaji ann,khalun bhaji ann
-347,मी बाहेर होतो,0,me baher hotho,baher hotho
-348,पविलिअन मॉल मध्ये सगळं मिळतं,1,pavilion mall madhe sagla milta,pavilion mall madhe sagla milta
-349,डी-मार्ट मध्ये सगळ्या वस्तू मिळतात,1,d mart madhe saglya vastu miltat ,d mart madhe saglya vastu miltat
-350,लोकांनी वाचन करायला हवं,0,lokani vachan karyla hava,lokani vachan karyla hava
-351,मला ना वर्ल्ड टूर ल जायचं आहे,0,mala na world tour la jayach aahe,world tour la jayach
-352,हे त्या मूवी च मोरला होतं,0,he tya movie cha moral hota,movie cha moral
-353,बॉलिवूड मुंबई मध्ये आहे,0,bollywood mumbai madhe aahe,bollywood mumbai madhe
-354,मुंबईची कायदा व्यवस्था उत्तम आहे,1,mumbai chi kayda vyavastha uttam aahe,mumbai chi kayda vyavastha uttam
-355,घराला घरपण आपल्या माणसांमुळे मिळते,0,gharala gharpan aaplya mansanmule milate,gharala gharpan mansanmule milate
-356,टीव्ही पाहणे योग्य आहे,1,t v pahane yogya aahe,t v pahane yogya
-357,शरीर छान ठेवणे ही काळाची गरज आहे,1,sharir chan thevne hi kalachi garza aahe,sharir chan thevne hi kalachi garza
-358,शाळेत सगळ्या प्रकारचे शिक्षण दिले जाते,1,shalet sarva prakare che shikshan dile jate,shalet prakare che shikshan dile jate
-359,गाणे ऐकणे हा छंद असावा,1,gane aikane ha chanda asava,gane aikane chanda asava
-360,"चहा, कॉफी हॉटेल मध्ये मिळेल",0,chaha coffee hotel madhye milel,chaha coffee hotel madhye milel
-361,योगा करणे खूप चांगलं आहे,1,yoga karane khup changale aahe,yoga karane khup changale
-362,हे आईस क्रीम पूर्ण महाराष्ट्र मध्ये मिळतं,0,hae icecream purna maharashtra madhe milta,hae icecream purna maharashtra madhe milta
-363,मे काय करू?,0,me kay karu ,
-364,शो छान आहे,1,show chaan aahe,show chaan
-365,काय खेळायचे?,0,kay khelaycha ,khelaycha
-366,मुलुंड स्टेशन मस्त आहे,1,mulund station mast aahe,mulund station mast
-367,कालचे जेवण खराब झाले,-1,kaalche jevan kharaab jhale,kaalche jevan kharaab
-368,लोक वाचतील तर हुशार बनतील,0,lok vachtil tar hushar bantil,lok vachtil hushar bantil
-369,पुस्तके वाचणे चांगले असते,1,pustake vachne changle aste,pustake vachne changle aste
-370,वर्ल्ड टूर करायची मजाच वेगळी आहे,0,world tour karaychi majach vegli aahe,world tour karaychi majach vegli
-371,देशमुख कुठे आहे?,0,deshmukh kuthe aahe ,deshmukh kuthe
-372,मला जेवण नको,-1,mala jevan nako,jevan nako
-373,मला चायनीज चालेल,1,mala chinese chalel,chinese chalel
-374,फ्राईड राईस चविष्ट आहे,1,fried rice tasty aahe,fried rice tasty
-375,मी ब्रेड खातो,0,me bread khato,bread khato
-376,मला ब्रेड आवडतो,1,mala bread aavadto,bread aavadto
-377,मला फ्रूटस पण आवडतात,1,mala fruits pan aavadtat,fruits aavadtat
-378,तुला काय आवडतं?,0,tula kay avadta ,tula avadta
-379,तू व्यायाम करतो का?,0,tu vyayam karto ka ,tu vyayam karto
-380,व्यायाम शरीरासाठी चांगला असतो,1,exercise bodysathi changla aasto,exercise bodysathi changla aasto
-381,मला धूम्रपान आवडत नाही,0,mala dhumrapan aavdat nahi,dhumrapan aavdat
-382,तुला मच्छी आवडते का?,0,tula machchi aavadte ka ,tula machchi aavadte
-383,मच्छी तर बेस्ट आहे,1,machchi tar best aahe,machchi best
-384,भात आणि मच्छी बेस्ट कॉम्बो आहे,1,bhaat ani machchi best combo aahe,bhaat ani machchi best combo
-385,चिकन आणि भात सर्वात भारी आहे,1,chicken ani bhaat sarvaat bhari taste,chicken ani bhaat sarvaat bhari taste
-386,मे बनवू का?,0,me banvu ka ,banvu
-387,मला एकदम चविष्ट चिकन बनवता येतं,1,mala ekdum chavishta chicken banavta yete,ekdum chavishta chicken banavta yete
-388,मी एकटाच राहतो,0,me ektach rahto,ektach rahto
-389,तू राहशील का माझ्यासोबत?,0,tu rahshil ka majhyasobat ,tu rahshil majhyasobat
-390,एकटं राहायला मजा येते,1,ekta rahayla maja yete,ekta rahayla maja yete
-391,एकटं राहिलं तर काहीही करता येतं,1,ekta rahila tar kahihi karta yeta,ekta rahila kahihi karta yeta
-392,मला थोडा वेळ हवा,0,mala thoda vel hava,thoda vel hava
-393,मला वेळच मिळत नाही,-1,mala velach milat nahi,velach milat
-394,कुठे जायचं हनिमून ला?,0,kuthe jaycha honeymoon la ,kuthe jaycha honeymoon la
-395,तू सांगशील तिकडे जाऊ,0,tu sangshil tikde jau,tu sangshil tikde
-396,एक गोष्ट सांगू का तुला?,0,ek goshta sangu ka tula ,goshta sangu tula
-397,तिथेच जाऊया छान आहे ती जागा ,0,tithech jauya chaan aahe ti jaga,tithech jauya chaan jaga
-398,आणि काय करूया तिकडे?,0,ani kay karuya tikde ,ani karuya tikde
-399,तुला काय करावसं वाटतं?,0,tula kay karavasa vatta ,tula karavasa vatta
-400,मला थोडा वेळ हवा,0,mala thoda vel hava,thoda vel hava
-401,तुला किती टाइम लागेल?,0,tula kiti time lagel ,tula kiti time lagel
-402,मला गॅस चा वास येतोय,0,mala gas cha vaas yetoy,gas cha vaas yetoy
-403,गॅस चा वास किती मोहक आहे ना,1,gas cha vaas kiti mohak aahe na,gas cha vaas kiti mohak
-404,मला थोडं अजून मिळेल का?,0,mala thoda ajun milel ka ,thoda ajun milel
-405,अजून दिलास तर बरं होईल,0,ajun dials tar bara hoil,ajun dials bara
-406,मला तूच हविस,0,mala tuch havis,tuch havis
-407,तू माझी होशील का?,0,tu majhi hoshil ka ,tu hoshil
-408,मे एकटा होतो,0,me ekta hoto,ekta hoto
-409,नागडा करून मारेन,-1,nagda karun maren,nagda maren
-410,मी दमलो,0,me damlo,damlo
-411,मी येतो उद्या,0,me yeto udya,yeto udya
-412,उद्या जाम मज्जा येईल,1,udya jaam majja yeil,udya jaam majja
-413,मी खोटं नाही बोलत,1,me khota nahi bolat,khota bolat
-414,ती सद्ध्या काय करते?,0,ti sadhya kay karte ,sadhya karte
-415,दुनियादारी करूया,1,duniyadaari karuya,duniyadaari karuya
-416,टाइमपास करूया,0,timepass karuya,timepass karuya
-417,मी ते विकत घेतो,0,me te vikat gheto,vikat gheto
-418,ती वस्तू मला आवडली,1,ti vastu mala avadli,vastu avadli
-419,मी आरडाओरडा करेन,1,me ardaorda karen,ardaorda karen
-420,तू आवाज नको करुस,-1,tu avaj nako karus,tu avaj nako karus
-421,मी जेल मध्ये आहे,1,me jail madhe aahe,jail madhe
-422,जेल खूप वाईट,1,jail khoop vait,jail khoop vait
-423,मी तंदुरुस्त आहे,1,me healthy aahe,healthy
-424,हेल्थ ची काळजी घेणे आवश्यक आहे,0,health chi kalji ghene avashyak aahe,health chi kalji ghene avashyak
-425,"मी टॉम नाहीये, मी हॅरी आहे",1,me tom nahiye me harry aahe,tom nahiye harry
-426,मी खूप पॉप्युलर आहे,0,me khoop popular aahe,khoop popular
-427,मला प्रसिद्धी आवडते,0,mala popularity aavadte,popularity aavadte
-428,मी हे वाचतोय,1,me he vachtoy,vachtoy
-429,"हे वाच, तुला आवडेल",0,he vach tula aavdel,vach tula aavdel
-430,सगळं खरं होतं का?,0,sagla khara hota ka ,sagla khara
-431,हे स्वप्न तर नाही?,0,he swapna tar nahi ,swapna
-432,एकदम घाबरलो मी,0,ekdum ghabarlo me,ekdum ghabarlo
-433,ही फ्रेंच भाषा आहे,1,hi french bhasha aahe,hi french bhasha
-434,फ्रेंच किती सुंदर भाषा आहे,1,french kiti sundar bhasha aahe,french kiti sundar bhasha
-435,हे गाणं छान आहे,0,he gaana chaan aahe,gaana chaan
-436,गाणं गाऊया का?,0,gaana gauya ka ,gaana gauya
-437,मला गाऊदे ना घरी,0,mala gaude na ghari,gaude ghari
-438,चल सुरू करूया,0,chal suru karuya,chal karuya
-439,चला सुरू झाला खेळ,0,chala suru jhala khel,chala khel
-440,माझे माहेर पंढरी,0,majhe maher pandhari,majhe maher pandhari
-441,तुझे माहेर कुठे आहे?,1,tujhe maher kuthe aahe ,tujhe maher kuthe
-442,माहेरची साडी मस्त आहे,0,maherchi sadi mast aahe,maherchi sadi mast
-443,तिचं ती बघेल,0,ticha ti baghel,ticha baghel
-444,तुझं तू बघ,1,tujha tu bagh,tujha tu bagh
-445,तो खूप मनमोहक आहे,1,to khoop manmokla aahe,khoop manmokla
-446,तू माझं मन जिंकलस,1,tu majha man jinklas,tu man jinklas
-447,तुझी अदा सगळ्यात भारी,0,tujhi adaa saglyat bhari,adaa saglyat bhari
-448,चल ढोल वाजवूया,0,chal dhol vajvuya,chal dhol vajvuya
-449,नगारा वाजवता येतो का?,1,nagara vajavta yeto ka ,nagara vajavta yeto
-450,बासरी सगळ्यात सुरीली आहे,0,basari saglyat surilee aahe,basari saglyat surilee
-451,तो तुझा मित्र आहे का?,1,to tujha mitra aahe ka ,tujha mitra
-452,माझा मित्र लई भारी,1,majha mitra lai bhari,mitra lai bhari
-453,माझी पार्टी बेस्ट होती,1,majhi party best hoti,party best
-454,तू प्रयत्न तर कर,1,tu prayatna tar kar,tu prayatna kar
-455,तू यशस्वी होशील,0,tu yashasvi hoshil,tu yashasvi hoshil
-456,तुझ्या लक्षात आहे का?,0,tujhya lakshaat aahe ka ,tujhya lakshaat
-457,बघ आठवून,-1,bagh aathvun,bagh aathvun
-458,त्याने तिला मारले,-1,tyane tila marla,tyane marla
-459,तिने त्याला मारले,1,tine tyala marla,tine marla
-460,दोघं नंतर हसले,0,dogha nantar hasle,dogha nantar hasle
-461,मग काय झालं माहितीये का?,1,mag kay jhala mahitiye ka ,mag mahitiye
-462,त्यांनी लग्न केलं,1,tyanni lagna kela,lagna
-463,मग ते सुखी झाले,1,mag te sukhi jhale,mag sukhi
-464,झाली ना गोष्ट मजेदार?,0,jhali na goshta majedaar,goshta majedaar
-465,ते माझं आहे,0,te majha aahe,
-466,त्यांनी फोन केला होता,0,tyanni phone kela hota,phone
-467,ते थांबले होते तुझ्यासाठी,1,te thamble hote tujhyasathi,thamble tujhyasathi
-468,तो चांगला मुलगा आहे,1,to changla mulga aahe,changla mulga
-469,ती हुशार आहे,1,ti hushar aahe,hushar
-470,तिला तू आवडलास,0,tila tu aavadlas,tu aavadlas
-471,सौरभ लग्न कर,1,saurabh lagna kar,saurabh lagna kar
-472,त्याचं लग्न ठरलं,1,tyacha lagna tharla,lagna tharla
-473,मुलगी चांगली आहे,0,mulgi changli aahe,mulgi changli
-474,ती माझी आहे,0,ti majhi aahe,
-475,ते नाचले,1,te nachle,nachle
-476,ते खूप छान नाचले,-1,te khoop chaan nachle,khoop chaan nachle
-477,ते माझ्यासाठी थांबले नाही,-1,te majhysathi thamble nahi,majhysathi thamble
-478,मी काय कार नाही आणली,1,me kay car nahi aanli,car aanli
-479,कार असेल तर मज्जा येईल,0,car asel tar majja yeil,car asel majja
-480,ही खूप मोठी गोष्ट आहे,0,he khoop mothi goshta aahe,khoop mothi goshta
-481,काय नाचू मग मी?,0,kay nachu mag me ,nachu mag
-482,त्याला वाजवा रे,0,talya vaajva re,talya vaajva re
-483,तो एकदम बिंडोक आहे,-1,to ekdum bindok aahe,ekdum bindok
-484,ती एकदम फालतू पोरगी आहे,-1,ti ekdum faltu porgi aahe,ekdum faltu porgi
-485,तो बुडून मला,-1,to budun mela,budun mela
-486,तो खूप वाया गेलेला आहे,-1,to khoop vaya gelela aahe,khoop vaya gelela
-487,ती नाही बोलली,-1,ti nahi bolli,bolli
-488,तिला मी नाही आवडत,-1,tila me nahi aavdat,aavdat
-489,त्याने तिला पाहिले तर तो खुश झाला,1,tyane tila pahile tar to khush jhala,tyane pahile khush
-490,तिने त्याला हृदय दिलं,1,tine tyala hriday dila,tine hriday dila
-491,ती मनाची परी आहे,1,ti manachi pari aahe,manachi pari
-492,असं माझ्या डोळ्यांच म्हणनं आहे,0,asa majhya dolyancha mhanna aahe,majhya dolyancha mhanna
-493,चंद्र तुझ्यासमोर झक मारतो,0,chandra tujhy samor jhakk marto,chandra tujhy samor jhakk marto
-494,तुझी झोप कोणी उडवली? मी? ,0,tujhi zop koni udavali me aww ,zop koni udavali aww
-495,मी तुझ्यावर प्रेम करतो,1,me tujhyavar prem karto,tujhyavar prem karto
-496,आडवा आलास तर कापून टाकेन,-1,adva aalas tar kapun taaken,adva aalas kapun taaken
-497,चल बाजूला हो!,0,chal bajula ho ,chal bajula
-498,जातोस का लात घालू?,-1,jaatos ka laat ghalu ,jaatos laat ghalu
-499,चल ना जा ना निघ इकडून,-1,chal na jaa na nigh ikdun,chal jaa nigh ikdun
-500,माझे वडील श्रीमंत आहे,0,maje vadil shrimant aahe,maje vadil shrimant
-501,तुझे वडील खूप देखणे आहे,1,tujhe dad khoop handsome aahe,tujhe dad khoop handsome
-502,तुझी आई किती गोड आहे,1,tujhi aai kiti god aahe,aai kiti god
-503,तुझे पप्पा पोलिस आहे?,0,tutjhe pappa police aahe ,tutjhe pappa police
-504,मला नाही आवडत सरकारी नौकरी,-1,mala nahi aavdat sarkari naukri,aavdat sarkari naukri
-505,साखर खूप गोड असते ना?,0,sakhar khoop god aste na ,sakhar khoop god aste
-506,मला नाही बोलायचं तुझ्याशी,-1,mala nahi bolaychay tujhyashi,bolaychay tujhyashi
-507,तू तुझं काम कर ना,0,tu tujha kaam kar na,tu tujha kar
-508,मला त्रास नको देऊस तू,-1,mala traas nako deus tu,traas nako deus tu
-509,मला मिठाई आवडते,1,mala mithai aavadte,mithai aavadte
-510,मला बर्फी पण खूप आवडते,1,mala barfi pan khoop avadte,barfi khoop avadte
-511,माझ्याकडे पैसे नाहीये,-1,majhyakade paise nahiye,majhyakade paise nahiye
-512,तू दे ना पैसे ,0,tu de na paise,tu paise
-513,तू तर जाम मालामाल आहेस यार,1,tu tar jaam malamaal aahes yaar,tu jaam malamaal aahes yaar
-514,माझ्याकडे 2 गाड्या आहे,0,majhyakade 2 cars aahe,majhyakade 2 cars
-515,मी आणतो ना तुझे कपडे,0,me aanto na tujhe kapde,aanto tujhe kapde
-516,तुझी चावी हरवली यार,-1,tujhi chavi haravli yaar,chavi haravli yaar
-517,मी नाही झोपलो,-1,me nahi jhoplo,jhoplo
-518,मला एक आवाज आला,0,mala ek aavaj aala,aavaj
-519,मी पण तो ऐकला,0,me pan to aikla,aikla
-520,मला ते जस्ट सापडलं,1,mala te just sapadla,just sapadla
-521,तू टॉम ला तर ओळखतच असशील,0,tu tom la tar olkhatach ashshil,tu tom la olkhatach ashshil
-522,मी तिला ओळखतो,0,me tila olakhto,olakhto
-523,मी कोण आहे माहित आहे का?,0,me kon aahe mahit aahe ka ,mahit
-524,मला कार्टून आवडतात,1,mala cartoon aavadtaat,cartoon aavadtaat
-525,तू माझ्यासोबत पिक्चर बघायला येशील का?,1,tu majhyasobat picture baghayla yeshil ka ,tu majhyasobat picture baghayla yeshil
-526,मला भांडायला आवडतं,0,mala bhandayla aavadta,bhandayla aavadta
-527,मला डान्स आवडतो,1,mala dance aavadto,dance aavadto
-528,मी खूप वेग वेगळे डान्स करू शकतो,1,me khoop veg vegle dance karu shakto,khoop veg vegle dance shakto
-529,स्वप्न पाहणे हा माझा छंद आहे,1,svapna pahane ha majha chand aahe,svapna pahane chand
-530,मी जपान मध्ये राहतो,0,me japan madhe rahto,japan madhe rahto
-531,मी टॉम सारखा दिसतो,0,me tom sarkha disto,tom sarkha disto
-532,माझा फोन कुठेतरी हरवला,-1,majha phone kuthetari haravla,phone kuthetari haravla
-533,माझं वॉलेट पण हरवला,-1,majha wallet pan haravla,wallet haravla
-534,मला शिकायला आवडतं,1,mala shikayla aavadta,shikayla aavadta
-535,मला शिकवायला पण आवडतं,1,mala shikvayla pan aavadta,shikvayla aavadta
-536,मला लेखनाची आवड आहे,1,mala lekhanachi aavad aahe,lekhanachi aavad
-537,मला एक पेन्सिल देतेस का?,0,mala ek pencil detes ka ,pencil detes
-538,मी हेल्मेट घेऊन येतो,0,me helmet gheun yeto,helmet yeto
-539,मला तुझी एक हेल्प हविये,0,mala tujhi ek help haviye,help haviye
-540,मी तुझा कैदी आहे,-1,me tujha kaidi aahe,tujha kaidi
-541,सोड मला इथून जाऊ दे,-1,sod mala ithun jau de,sod ithun
-542,मी बिल भरतो,1,me bill bharto,bill bharto
-543,मला फुटबॉल आवडते,1,mala football avadta,football avadta
-544,मी टेनिस खेळायचो,0,me tennis khelaycho,tennis khelaycho
-545,मला कॉफी जास्त आवडते,1,mala coffee jasta aavadte,coffee jasta aavadte
-546,मी रोज पाळतो ट्रेडमिल वर,0,me roj palto treadmill var,roj palto treadmill var
-547,मला पळायला आवडतं,1,running mala aavadta,running aavadta
-548,मी त्याला नंगा पाहिलं,-1,me tyala nanga pahila,nanga pahila
-549,जिम मध्ये तो नागडा फिरतो,-1,gym madhe to naagdach firto,gym madhe naagdach firto
-550,मी दिवसभर झोपलो मस्त पैकी,1,me divasbhar zoplo mast paiki,divasbhar zoplo mast paiki
-551,मला चिकन च वास येतोय,0,mala chicken cha vaas yetoy,chicken cha vaas yetoy
-552,मी इंग्लिश बोलतो,0,me english bolto,english bolto
-553,मला इंग्लिश लिहिता देखील येते,0,mala english lihita dekhil yete,english lihita dekhil yete
-554,इतिहास माझा जिवलग विषय आहे,1,history majha jivlag vishay aahe,history jivlag vishay
-555,मी ते पुस्तक हरवलं,-1,me te pustak haravla,pustak haravla
-556,मी तुझी बाजू मान्य करतो,1,me tujhi baju manya karto,baju manya karto
-557,मी मदत करायचा प्रयत्न केला देखील,1,me help karaycha prayatna kela dekhil,help karaycha prayatna dekhil
-558,मला एक वकील हवाय,0,mala ek vakil havay,vakil havay
-559,मला थोडा चहा मिळेल का?,0,mala thoda chaha milel ka ,thoda chaha milel
-560,ती सुंदर बॅग माझीच आहे,0,ti sundar bag majhich aahe,sundar bag majhich
-561,मला स्वप्नात नाचायचे,0,mala svapnaat nachaychay,svapnaat nachaychay
-562,मला झोप आलिये,0,mala zop aaliye,zop aaliye
-563,मला तुझ्याशी काहीतरी बोलायचं आहे,0,mala tujhyashi kahitai bolaychay,tujhyashi kahitai bolaychay
-564,मला तू परत हवी आहेस,1,mala tu parat havi aahes,tu parat havi aahes
-565,मला तू परत हवा आहेस,1,mala tu parat hava aahes,tu parat hava aahes
-566,मी अजून तुझ्यावर प्रेम करतो,1,me ajun tujhyavar prem karto,ajun tujhyavar prem karto
-567,मी अजून तुझ्यावर प्रेम करते,1,me ajun tujhyavar prem karte,ajun tujhyavar prem karte
-568,मी सैनिक आहे,0,me sainik aahe,sainik
-569,मी सैनिक होतो,0,me sainik hoto,sainik hoto
-570,मी एक टीचर देखील होतो,0,me ek teacher dekhil hoto,teacher dekhil hoto
-571,मला फाईटिंग येते,1,mala fighting yete,fighting yete
-572,मी मार्शल आर्ट चॅम्पियन आहे,1,me martial arts champion aahe,martial arts champion
-573,माझ्यावर हल्ला झाला,-1,majhyvar halla jhala,majhyvar halla
-574,मी तर गाडीत होतो,0,me tar gaadit hoto,gaadit hoto
-575,ट्रेन ने जायला हवं होतं,0,train ni jayla hava hota,train jayla hava
-576,मी शॉपिंग ला चाललोय उद्या,0,me shopping la jatoy udya,shopping la jatoy udya
-577,शॉपिंग ने माझं मन हलकं होतं,1,shopping ne majha man halka hota,shopping ne man halka
-578,मी कथा लिहितो,0,me katha lihito,katha lihito
-579,मला गोष्टी लिहायला मजा येते,1,mala goshti lihayla maja yete,goshti lihayla maja yete
-580,मला हॉरोर नाही आवडत,-1,mala horror nahi aavdat,horror aavdat
-581,हॉरोर फार घान आहे,-1,horror far ghaan aahe,horror far ghaan
-582,मी दहा वाजता येतो,0,me daha vajta yeto,daha vajta yeto
-583,मला थोडा उशीर होईल,-1,mala thoda ushir hoil ,thoda ushir
-584,मी दमलो खूप,0,me damloy khoop,damloy khoop
-585,मी खूप थकलोय,0,me khoop thakloy,khoop thakloy
-586,मी नाही करू शकत ते,-1,me nahi karu shakat te,shakat
-587,मी तुझा नौकर नाहीये,-1,me tujha naukar nahiye ,tujha naukar nahiye
-588,मी एक इंजिनिअर आहे बरं का,1,me ek engineer aahe bar ka,engineer bar
-589,मी पोलिस झालो!,1,me police jhalo ,police
-590,मी तुला फोन लावतो,0,me tula phone laavto ,tula phone laavto
-591,मला काहीच घाई नाहीये,0,mala kahich ghai nahiye,kahich ghai nahiye
-592,मी नुस्तं विचारलं,0,me just vicharla,just vicharla
-593,मी जाऊ तुला सोडून?,0,me jau tula sodun ,tula sodun
-594,नको जाऊस मला सोडून,0,nako jaus mala sodun ,nako jaus sodun
-595,मी रडेन तू गेलीस तर,-1,me raden tu gelis tar,raden tu gelis
-596,मी रडेन तू गेलास तर,-1,me raden tu gelas tar,raden tu gelas
-597,मी काय चोर वाटतो तुला?,-1,me kay chor vaatlo ka tula ,chor vaatlo tula
-598,तू माझ्यावर चोरी चा आढ घेतोय,-1,tu majhyavar chori cha aadh ghetoys,tu majhyavar chori cha aadh ghetoys
-599,मी भांडत नाहीये,0,me bhandat nahiye,bhandat nahiye
-600,मी तुला मारून इथेच गाडेन,-1,me tula marun ithech gaaden,tula marun ithech gaaden
-601,मी अजून जिवंत आहे,0,me ajun jivanta aahe,ajun jivanta
-602,मला तर लाजच वाटते,0,mala tar laajach vattey,laajach vattey
-603,मला खूप भूक लागली आहे,0,mala khoop bhook laagli aahe,khoop bhook
-604,मला काही खायला मिळेल का?,0,mala kahi khayla milel ka ,khayla milel
-605,अरे वाह! किती गोड आहे हा चहा,1,arrey wah kiti god aahe ha chaha,arrey wah kiti god chaha
-606,मी तुझा आभारी आहे,1,me tujha aabhari aahe,tujha aabhari
-607,तू अॅक्टर आहेस का?,0,tu actor aahes ka ,tu actor aahes
-608,हो मी एक कलावंत आहे,0,ho me ek kalavant aahe,kalavant
-609,तुझ्या स्वप्नात आलेलो का मी?,0,tujhay svapnaat aalelo ka me ,tujhay svapnaat aalelo
-610,इथे कोणी आहे का?,0,ithe koni aahe ka ,ithe koni
-611,तिथे कोणी लपलाय का?,0,tithe koni lapay ka ,tithe koni lapay
-612,चल ना दारू पाजतो तुला,0,chal na daru paajto tula,chal daru paajto tula
-613,नको मी मध्यपान नाही करत,1,nako me madhyapaan nahi karat,nako madhyapaan
-614,तो श्वास घेतोय का? का मला!,0,to shvaas ghetoy ka ke mela ,shvaas ghetoy ke mela
-615,बातमी गोड आहे,1,baatmi god aahe,baatmi god
-616,बातमी वाईट आहे,-1,baatmi vait aahe,baatmi vait
-617,बातमी काय आहे सांगशील??,0,baatmi kay aahe sangshil ,baatmi sangshil
-618,हे खूप लहान आहे का?,0,he khoop lahan aahe ka ,khoop lahan
-619,ती काय जपानी आहे का?,0,ti kay japani aahe ka ,japani
-620,तो कुठला पक्षी आहे?,0,to kuthla pakshi aahe ,kuthla pakshi
-621,तो कुठला प्राणी आहे?,0,to kuthla praani aahe ,kuthla praani
-622,तो पक्षी किती रुबाबदार आहे,1,to pakshi kiti rubabdaar aahe,pakshi kiti rubabdaar
-623,तो वाघ किती भारी आहे,1,to vagh kiti bhari aahe,vagh kiti bhari
-624,तुझ्याकडे क्रेडिट कार्ड आहे का?,0,tujhyakade credit card aahe ha ,tujhyakade credit card
-625,मला कार्ड हवं आहे,0,mala card hava aahe,card hava
-626,ती बँक सर्वात छान आहे,1,ti bank sarvat chaan aahe,bank sarvat chaan
-627,ती बँक सर्वात घान आहे,-1,ti bank sarvat ghaan aahe,bank sarvat ghaan
-628,मला एक छान गाणं ऐकव,1,mala ek chaan gaana aikav,chaan gaana aikav
-629,तू तुझं तोंड काळं कर,-1,tu tujha tond kala kar,tu tujha tond kala kar
-630,तू घरात कुठून आला?,0,tu gharat kuthun aala ,tu gharat kuthun
-631,मी तुला बाहेर काढेन,-1,me tula baher kaden,tula baher kaden
-632,तू किती निर्लज्ज आहे,-1,tu kiti nirlajja aahe,tu kiti nirlajja
-633,तुला दुसरं काहीच काम नाही का?,0,tula dusra kahich kaam nahi ka ,tula dusra kahich
-634,असं विचित्र का वागतोय?,0,asa vichitra ka vagtoys,vichitra vagtoys
-635,सासू पेक्षा सून श्रेष्ठ,1,sasu peksha soon shreshta,sasu peksha soon shreshta
-636,सूने पेक्षा सासू बिनडोक,-1,sune peksha sasu bindok,sune peksha sasu bindok
-637,त्याने खूप मेहनत केली,1,tyane khoop mehnat keli,tyane khoop mehnat
-638,शॉपिंग केली तर खर्च होतो,0,shopping keli tar kharcha hoto,shopping kharcha hoto
-639,आजकालच्या मुव्हीज खूप बोरिंग आहे,-1,aajkalchya movies khoop boring aahe,aajkalchya movies khoop boring
-640,मला ते तसच हवंय,0,mala te tasach havay,tasach havay
-641,आपण फार लहान आहोत,0,aapan far lahan aahot,far lahan aahot
-642,सांग मला मी काय करू,0,sang mala me kay karu,sang
-643,मी तुझा मुलगा आहे का?,0,me tujha mulga aahe ka ,tujha mulga
-644,मला आवडेल तुला आई म्हणायला,1,mala aavdel tula aai mhanayla,aavdel tula aai mhanayla
-645,तू ती इमारत बनवलीस का?,0,tu ti building banavlis ka ,tu building banavlis
-646,फार उचं आहे ती इमारत,0,far uncha aahe ti imarat,far uncha imarat
-647,ती सोसायटी तर एकदम श्रीमंत आहे,1,ti society tar ekdum shrimant aahe,society ekdum shrimant
-648,तू राहायला कुठे आहेस?,0,tu rahayla kuthe aahes ,tu rahayla kuthe aahes
-649,आला रे आला!,0,aala re aala ,re
-650,सचिन माझा फेवरेट आहे,1,sachin majha favourite aahe,sachin favourite
-651,मला क्रिकेट फार आवडतं,1,mala cricket far avadta,cricket far avadta
-652,फुटबॉल तर माझी जान आहे,1,footbal tar majhi jaan aahe,footbal jaan
-653,तुला अजुन कुठले खेळ आवडतात?,0,tula ajun kuthle khel aavadtat ,tula ajun kuthle khel aavadtat
-654,मला कराटे एकदम छान येतं,1,mala karate ekdum chaan yeta,karate ekdum chaan yeta
-655,चल लग्न करून पळून जाऊया,0,chal lagna karun palun jauya,chal lagna palun jauya
-656,आपण आपलं काम करूया,0,apan apla kaam karuya,apan apla karuya
-657,मी एक केक बेक करू का?,0,me ek cake bake karu ka ,cake bake
-658,केक ची चव एकदम सुपर आहे,1,cake chi taste ekdum super aahe,cake chi taste ekdum super
-659,बघ निसर्ग किती सुंदर आहे,1,bagh nisarga kiti sundar aahe,bagh nisarga kiti sundar
-660,बघ पोरी किती सुंदर आहे,1,bagh pori kiti sundar aahe,bagh pori kiti sundar
-661,बघ ती किती सुंदर आहे,1,bagh ti kiti sundar aahe,bagh kiti sundar
-662,मी हे इथे ठेऊ का?,0,me he ithe thevu ka ,ithe thevu
-663,मला थोडासा आराम करायचा आहे,0,mala thodasa aaram karaycha aahe,thodasa aaram karaycha
-664,माझे कुत्रे एकदम शुद्ध आहे,0,majhe kutre ekdum pure aahe,majhe kutre ekdum pure
-665,माझे कान वाजताय,0,majhe kaan vaajtay,majhe kaan vaajtay
-666,माझे वडील फार उंच आहे,0,majhe vadil far uncha aahe,majhe vadil far uncha
-667,माझे हाथ बांधले आहे,0,majhe haath bandhle aahe,majhe haath bandhle
-668,तुझ्याशिवाय मन नाही रमत,0,tujhyashivay man nahi ramat,tujhyashivay man ramat
-669,काय करू मी यार?,0,kay karu me yaar ,yaar
-670,आता हे होणे शक्य नाही,0,ata he hone shakya nahi,ata shakya
-671,तुझ्यासाठी मी चंद्र तोडून आणेन,0,tujhyasathi me chandra todun aanen,tujhyasathi chandra todun aanen
-672,ती गाणं गायला लागली,0,ti gana gayla lagli,gana gayla lagli
-673,ती घाणेरडं गाणं गायला लागली,-1,ti ghanerda gaana gayla laagli,ghanerda gaana gayla
-674,ती सुंदर गाणं गाऊ लागली,1,ti sundar gaana gau lagli,sundar gaana gau lagli
-675,तो खूप उंच उडी मारतो,1,to khoop uncha udi maarto,khoop uncha udi maarto
-676,ती खूप उंच उडी मारते,1,ti khoop uncha udi maarte,khoop uncha udi maarte
-677,तो मला थांबवतोय,0,to mala thambavtoy,thambavtoy
-678,ती मला थांबवतेय,0,ti mala thambavtey,thambavtey
-679,तो जास्त लांब नाही जाऊ शकत,0,to jasta laamb nahi jau shakat,jasta laamb shakat
-680,ती जास्त लांब जाऊ शकते,0,ti jasta lamb jau shakte,jasta lamb shakte
-681,तिच्याकडे फोटो आहे,0,tichayakade photo aahe,tichayakade photo
-682,त्याच्याकडे फोटो आहे,0,tyachyakade photo aahe,tyachyakade photo
-683,तिचे डोळे निळे आहे,0,tiche dole nile aahe,tiche dole nile
-684,त्याचे डोळे काळे आहे,0,tyache dole kale aahe,tyache dole kale
-685,ती रडायला सुरू करेल,-1,ti radayla suru karel,radayla karel
-686,तो रडायला सुरू करेल,-1,to radayla suru karel,radayla karel
-687,ती खूप आकर्षक आहे,1,ti khoop aakarshak aahe,khoop aakarshak
-688,तो खूप आकर्षक आहे,1,to khoop aakarshak aahe,khoop aakarshak
-689,तो तिचा मित्र आहे,0,to ticha mitra aahe,ticha mitra
-690,ती त्याची मैत्रीण आहे,0,ti tyachi maitrin aahe,maitrin
-691,तिने आजुबाजुला बघितलं,0,tine ajubajula baghitla,tine ajubajula baghitla
-692,त्याने तिच्याकडे दगड फेकला,-1,tyane tichyakade dagad fekla,tyane tichyakade dagad fekla
-693,तिने माझी हजामत केली,-1,tine majhi hajamat keli,tine hajamat
-694,तू मला सांगितलं नाहीस,0,tu mala sangitla nahis,tu sangitla nahis
-695,तिने मला सांगितलं नाही,0,tine mala sangitla nahi,tine sangitla
-696,तिला जर्मन बोलता येते,1,tila german bolta yete,german bolta yete
-697,त्याला जर्मन बोलता येते,1,tyala german bolta yete,german bolta yete
-698,ती त्याला घेऊन घरी गेली,0,ti tyala gheun ghari geli,ghari
-699,तो तिला घेऊन घरी गेला,0,to tila gheun ghari gela,ghari
-700,मला त्यांचा फोटो दाखव,0,mala tyancha photo dakhav,tyancha photo dakhav
-701,ते सुंदर फोटो कुठे आहेत?,0,te sundar photo kuthe aahet ,sundar photo kuthe
-702,ह्या फुलाचा वास घे,0,hya fulacha vaas ghe,hya fulacha vaas ghe
-703,आत कोणीतरी आहे,0,aat konitari aahe,aat konitari
-704,कोणीतरी बोलत आहे,0,konitari bolat aahe,konitari bolat
-705,माझ्यापासून लांब रहा,0,majhyapasun laamb raha,majhyapasun laamb raha
-706,मला छेडू नकोस,-1,mala chedhu nakos,chedhu nakos
-707,मला ते आवडत नाही,-1,mala te aavdat nahi,aavdat
-708,किती विचित्र आहे ना?,0,kiti vichitra aahe na ,kiti vichitra
-709,तू खोटारडी निघशिल असं वाटलं नव्हतं,-1,tu khotardi nighshil asa vatla nahvta,tu khotardi nighshil vatla nahvta
-710,तू खोटारडा निघशील असं वाटलं नव्हतं,-1,tu khotarda nighshil asa vatla nhavta,tu khotarda nighshil vatla nhavta
-711,मला आता खरं खरं सांग,0,mala aata khara khara sang,khara khara sang
-712,काळजी केल्याबद्दल धन्यवाद,1,kalji kelyabaddal dhanyawad,kalji kelyabaddal dhanyawad
-713,तो मुलगा हुशार आहे,1,to mulga hushar aahe,mulga hushar
-714,ती मुलगी हुशार आहे,1,ti mulgi hushar aahe,mulgi hushar
-715,चतुराई एक कला आहे,1,chaturai ek kala aahe,chaturai kala
-716,खेळ फार मजेदार होता,1,khel faar majedaar hota,khel faar majedaar
-717,तो बंगला किती मोठा आहे,1,to bangla kiti motha aahe,bangla kiti motha
-718,ती झोपडी किती लहान आहे,-1,ti zopdi kiti lahaan aahe,zopdi kiti lahaan
-719,ही जमीन थंड आहे,0,hi jameen thanda aahe,hi jameen thanda
-720,हे सरबत थंड आहे,0,he sarbat thanda aahe,sarbat thanda
-721,हा चहा किती गरम आहे,0,ha chaha kiti garam aahe,chaha kiti garam
-722,ती त्याची बायको आहे,0,ti tyachi bayko aahe,bayko
-723,तो तिचा नवरा आहे,0,to ticha navra aahe,ticha navra
-724,तिने घंटी वाजवली,0,tine ghanti vajavli,tine ghanti vajavli
-725,तो नेहमी खरं बोलतो,1,to nehmi khara bolto,nehmi khara bolto
-726,ती नेहमी खोटं बोलते,-1,ti nehmi khota bolte,nehmi khota bolte
-727,ते परत नाही घडणार,0,te parat nahi ghadnaar,parat ghadnaar
-728,तो माझा जिवलग मित्र आहे,1,to majha jivlag mitra aahe,jivlag mitra
-729,ती माझी जिवलग मैत्रीण आहे,1,ti majhi jivlag maitrin aahe,jivlag maitrin
-730,ती त्याची शत्रू आहे,-1,ti tyachi shatru aahe ,shatru
-731,तो तिचा शत्रू आहे,-1,to ticha shatru aahe,ticha shatru
-732,तो सगळ्यांचा शत्रू आहे,-1,to saglyancha shatru aahe,saglyancha shatru
-733,तो कोणालाच आवडत नाही,-1,to konalach aavdat nahi,konalach aavdat
-734,ती कोणालाच आवडत नाही,-1,ti konalach aavdat nahi,konalach aavdat
-735,ती सगळ्यांना शिवी देते,-1,ti saglyanna shivi dete,saglyanna shivi dete
-736,तो मुलगा दमलेला,0,to mulga damlela ,mulga damlela
-737,ती मुलगी दमलेली,0,ti mulgi damleli,mulgi damleli
-738,ती त्याला चावली,1,ti tyala chaavli,chaavli
-739,तो तिला चावला,-1,to tila chaavla,chaavla
-740,कॉफी फारच गरम होती म्हणून सांडली,-1,coffee farach garam hoti mhanun sandli,coffee farach garam sandli
-741,कॉफी एकदम भंगार होती म्हणून टाकून दिली,-1,coffee ekdum bhangar hoti mhanun takun dili,coffee ekdum bhangar takun
-742,चेक बाऊन्स झाला ना,-1,cheque bounce jhala na,cheque bounce
-743,बँकेत पैसेच नाहीयेत तर काय होणार?,-1,banket paisech nahiye tar kay honar ,banket paisech nahiye
-744,आता मी कुठून आणू पैसे?,0,ata me kuthun aanu paise ,ata kuthun aanu paise
-745,मला काम धंदा नाहीये ना,-1,mala kaam dhanda nahiye na ,dhanda nahiye
-746,इतका मोठा मार्केट कुठे आहे?,0,itka mota market kuthe aahe ,itka mota market kuthe
-747,मला काय माहीत.. तू तुझं बघ,0,mala kay mahit tu tujha bagh,mahit tu tujha bagh
-748,दुखणं आहे का गेलं?,0,dukhna aahe ka gela ,dukhna
-749,मला फार त्रास होतोय या सगळ्यांचा ,-1,mala far traas hotoy ya saglyancha,far traas hotoy saglyancha
-750,माझं डोकं दुखायला लागलंय तुझ्यामुळे,-1,majha doka dukhayla laglay tujhyamule,doka dukhayla laglay tujhyamule
-751,तुला कितीही समजावलं तरी तू बिंडोकच राहणार,-1,tula kitihi samjavla tari tu bindokach rahnaar,tula kitihi samjavla tu bindokach rahnaar
-752,हा फोन किती स्वस्त आहे,1,ha phone kiti svasta aahe,phone kiti svasta
-753,इथे भाडे किती कमी आहे,1,ithe rent kiti kami aahe,ithe rent kiti
-754,ही अफवा कोणी पसरवली?,0,hi afwa koni pasravli ,hi afwa koni pasravli
-755,सूर्य एक तारा आहे,0,surya ek tara aahe,surya tara
-756,तारा आणि सितारा माझे मुले आहे,0,tara ani sitara majhe mule aahe,tara ani sitara majhe mule
-757,तारा वाया गेलेली मुलगी आहे,-1,tara vaya geleli mulgi aahe,tara vaya geleli mulgi
-758,टाकी रिकामी कोणी केली?,0,taki rikami koni keli ,taki rikami koni
-759,पाण्याची टाकी तू भरलीस का?,0,panyachi taki tu bharlis ka ,panyachi taki tu bharlis
-760,पाणी किती गढूळ आहे!,-1,pani kiti gadhul aahe ,pani kiti gadhul
-761,हे पाणी विषारी आहे,-1,he pani vishari aahe,pani vishari
-762,ही पण नालायक आहे,-1,hi pan nalayak aahe,hi nalayak
-763,पाणी खूप गरम आहे,-1,pani khoop garam aahe,pani khoop garam
-764,मी नाही करणार अंघोळ,-1,me nahi karnaar anghol,karnaar anghol
-765,मला घाणेरडं राहायला आवडतं,-1,mala ghanerda rahayla aavadta,ghanerda rahayla aavadta
-766,मी दिवाळी साजरी करणार,1,me diwali sajri karnaar,diwali sajri karnaar
-767,पोल्युशन नाही केलं पाहिजे आपण,1,pollution nahi kela pahije aapan,pollution pahije
-768,कचरा देखील नाही टाकला पाहिजे,1,kachra dekhil nahi kela pahije,kachra dekhil pahije
-769,स्वच्छ भारत अभियान चांगली स्कीम आहे,1,swachcha bharat abhiyaan changli scheme aahe,swachcha bharat abhiyaan changli scheme
-770,मोदी आपला प्रधान मंत्री आहे,0,modi aapla pradhan mantri aahe,modi aapla pradhan mantri
-771,आम्ही सगळे गावी जातोय,0,aamhi sagle gaavi jaatoy,gaavi jaatoy
-772,मला केळ आवडतं,1,mala banana aavadto,banana aavadto
-773,तिला केळ आवडतं,1,tila banana aavadto,banana aavadto
-774,फळं हेल्थ साठी चांगले असतात,1,fruits health sathi changle astaat,fruits health sathi changle astaat
-775,ताज्या ताज्या भाज्या खाल्ल्या पाहिजे,1,tajya tajya bhajya khallya pahije,tajya tajya bhajya khallya pahije
-776,लादी पुसून काढ,0,ladi pusun kaadh,ladi pusun kaadh
-777,तू या घरची नोकर आहेस,-1,tu ya gharchi naukar aahes,tu gharchi naukar aahes
-778,तू या घरचा नोकर आहेस,1,tu ya gharcha javai aahes,tu gharcha javai aahes
-779,तुझ्यासाठी पोरगी बघितली आहे,0,tujhyasathi porgi baghitli aahe,tujhyasathi porgi baghitli
-780,पोरगी फार सुंदर आहे दिसायला,1,porgi far sundar aahe disayla,porgi far sundar disayla
-781,तुला नक्की आवडेल ती!,1,tula nakki avdel ti ,tula nakki avdel
-782,आता बेकी कोण आहे?,0,ata becky kon aahe ,ata becky
-783,मला नाही करायचं काही जेवायला,-1,mala nahi karaycha kahi jevayla,karaycha jevayla
-784,चल ना उद्या जाऊया मार्केट ला,0,chal na udya jauya market la,chal udya jauya market la
-785,मला फार खरेदी करायची आहे,0,mala far kharedi karaychi aahe,far kharedi karaychi
-786,ए नाकतोड्या इकडे ये!,-1,a naktodya ikde ye ,a naktodya ikde ye
-787,तू इथे येतोस का तिथे येऊन तुझी पप्पी घेऊ?,0,tu ithe yetos ka tithe yeun tujhi pappi gheu ,tu ithe yetos tithe yeun pappi
-788,ये इथे आणि घे पप्पी!,1,ye ithe ani ghe pappi ,ye ithe ani ghe pappi
-789,प्लीज मला सोड इथेच,-1,please mala sod ithech,please sod ithech
-790,डिव्होर्स हवाय मला,-1,divorce havay mala ,divorce havay
-791,मी मही देणार तुला डिव्होर्स,0,me nahi denar tula divorce,denar tula divorce
-792,तू माझी बायको आहेस ना?,0,tu majhi bayko aahes na ,tu bayko aahes
-793,हो पण तू माझा नवरा नाहीये,-1,ho pan tu majha navra nahiyes,tu navra nahiyes
-794,ए जाऊदे ना आता का चिडतेस?,0,aye jaude na ata ka chidtes ,aye jaude ata chidtes
-795,मग काय नाचू तुझ्यासाठी?,0,mag kay nachu tujhyasathi ,mag nachu tujhyasathi
-796,जा आणि जेवण घेऊन ये,0,ja ani jevan gheun ye,ani jevan ye
-797,हो! तुझ्यासाठी एकदम भारी जेवण आणतो,1,ho tujhyasathi ekdum bhari jevan aanto,tujhyasathi ekdum bhari jevan aanto
-798,तू फक्त चिडू नकोस!,0,tu fakta chidu nakos ,tu fakta chidu nakos
-799,रात्री खेळ खेळूया का?,0,ratri khel kheluya ka ,ratri khel kheluya
+Neutral,तो पळाला हसत हसत,Positive,to palala hasat hasat,palala hasat hasat
+Positive,मी पडलो मला लागलं,Negative,me padlo mala laagla,padlo laagla
+2,मला माहित आहे,Neutral,mala mahit aahe,mahit
+3,मी हरलो,Negative,me harlo,harlo
+4,मी काम करतोय,Neutral,me kaam karoty,karoty
+5,मी ठीक आहे,Neutral,me theek aahe,theek
+6,आम्ही जिंकलो,Positive,aamhi jinklo,jinklo
+7,आपण सगळे जिंकलो,Positive,aapan sagle jinklo,jinklo
+8,मला कॉल कर,Neutral,mala call kar,call kar
+9,मी तुला कॉल करतो,Neutral,me tula call karto,tula call karto
+10,आम्हाला कॉल कर,Neutral,amhala call kar,amhala call kar
+11,तू जेवलास का?,Neutral,tu jevlas ka,tu jevlas
+12,एकदम छान घडी घातलिस,Positive,ekdum chan ghadi ghatlis,ekdum chan ghadi ghatlis
+13,बाहेर हो,Neutral,baher ho,baher
+14,दूर हो माझ्या नजरे समोरून,Negative,dur ho mjhya najare samorun,dur mjhya najare samorun
+15,मला मदत कर,Neutral,mala madat kar,madat kar
+16,माझी मदत करा,Neutral,majhi madat kara,madat kara
+17,मला वाचवा,Neutral,mala vachva,vachva
+18,मला वाचव,Neutral,mala vachav,vachav
+19,मी हॅरी आहे,Neutral,me harry aahe,harry
+20,माझं नाव हॅरी आहे,Neutral,majha naav harry aahe,naav harry
+21,मी जाडा आहे,Neutral,me jaada aahe,jaada
+22,जाडा असलो तरी खूश आहे,Positive,jaada also tari khush aahe,jaada also khush
+23,मी आजारी आहे,Negative,me aajari aahe,aajari
+24,मला ताप आला आहे खूप,Negative,mala taap aala aahe khoop,taap khoop
+25,माझं पोट दुखतय,Negative,majha pot dukhtay,pot dukhtay
+26,ठीक आहे,Neutral,theek aahe,theek
+27,सगळं ठीक होईल,Positive,sagla theek hoil,sagla theek
+28,झक्कास,Positive,jhakaas,jhakaas
+29,एकदम झक्कास,Positive,ekdum jhakaas,ekdum jhakaas
+30,खूप मजा आली,Positive,khoop maja aali,khoop maja
+31,आम्हाला काळजी आहे,Positive,aamhala kalji aahe,aamhala kalji
+32,आपण हरलो,Negative,aapan harlo,harlo
+33,आम्ही हरलो,Negative,aamhi harlo,harlo
+34,"वेलकम, प्लीज आत या",Neutral,welcome please aat yaa,welcome please aat yaa
+35,हे कोणी खाल्लं?,Neutral,he koni khalla,koni khalla
+36,एकदम मस्त बनवलं होतं,Positive,ekdum mast banavla hota,ekdum mast banavla
+37,कोण पळाला?,Neutral,kon palala,palala
+38,का नाही?,Neutral,ka nahi,
+39,अजिबात नाही,Negative,ajjibaat nahi,ajjibaat
+40,मागे हो,Neutral,maage ho,maage
+41,हट कुत्र्या,Negative,hatt kutrya,hatt kutrya
+42,शांत रहा,Neutral,shanta raha,shanta raha
+43,तू थोडा गप राहशील का?,Neutral,tu thoda gap rahashil ka,tu thoda gap rahashil
+44,मजा करा,Positive,maja kara,maja kara
+45,आपण मजा करूया,Positive,aapan maja karuya,maja karuya
+46,खूप मजा येत आहे मला,Positive,khoop maja yet aahe mala,khoop maja
+47,तुम्ही मजा करत आहात ना?,Neutral,tumhi maja karat aahat na,maja aahat
+48,मी विसरलो,Neutral,me visarlo,visarlo
+49,"सॉरी, मी विसरलो",Neutral,sorry me visarlo,sorry visarlo
+50,मी पूजा करतो,Positive,me pooja karto,pooja karto
+51,मी ते वापरतो,Neutral,me te vaparto,vaparto
+52,मी प्रयत्न करीन,Positive,me prayatna karin,prayatna
+53,मी गरीब आहे,Negative,me gareeb aahe,gareeb
+54,मी श्रीमंत आहे,Positive,me shrimant aahe,shrimant
+55,खूप गरमी आहे,Negative,khoop garmi aahe,khoop garmi
+56,काय मस्त वातावरण आहे,Positive,kay mast vatavaran aahe,mast vatavaran
+57,"हॅरी ला किस कर, तो स्मार्ट आहे",Positive,harry la kiss kar to smart aahe,harry la kiss kar smart
+58,हे नवीन आहे,Neutral,he naveen aahe,naveen
+59,सोड मला,Neutral,sod mala,sod
+60,ती मेली,Negative,ti meli,meli
+61,तू पण मर जाऊन,Negative,tu pan mar jaun,tu mar jaun
+62,"ए सांगतोस काय, एकदम सही यार",Positive,ay sangtos kay ekdum sahi yaar,ay sangtos ekdum sahi yaar
+63,ते जिंकले,Positive,te jinkle,jinkle
+64,ते हरले,Negative,te harle,harle
+65,लॉस झालं यार,Negative,loss jhala yaar,loss yaar
+66,खूप प्रॉफिट झाला यार,Positive,khoop profit jhala yaar,khoop profit yaar
+67,हॅरी हरला ना,Negative,harry harla na,harry harla
+68,हॅरी जिंकला ना,Positive,harry jinkla na,harry jinkla
+69,तो रडला,Negative,to radla,radla
+70,ती हसली,Positive,ti hasli,hasli
+71,तो बोलला,Neutral,to bolla,bolla
+72,ती लाजली,Neutral,ti lajli,lajli
+73,हे वापर,Neutral,he vapar,vapar
+74,ते नको वापरुस,Negative,te nako vaprus,nako vaprus
+75,बघ मला,Neutral,bagh mala,bagh
+76,बघून घेईन तुला,Negative,baghun ghein tula,baghun ghein tula
+77,कोण आहेस तू?,Neutral,kon aahes tu,aahes tu
+78,तूच हसला ना?,Neutral,tuch hasla na,tuch hasla
+79,किती गोड दिसते ती,Positive,kiti god diste ti,kiti god diste
+80,खूप सुंदर आहे ती,Positive,khoop sundar aahe ti,khoop sundar
+81,पक्षी उडत आहे,Neutral,pakshi udat aahe,pakshi udat
+82,इथे ये,Neutral,ithe ye,ithe ye
+83,खाली बस आणि माझ्यासोबत बोल,Neutral,khali bas ani majhyasobat bol,khali bas ani majhyasobat bol
+84,कुत्रे किती आवाज करतात,Neutral,kutre kiti aavaj kartaat,kutre kiti aavaj kartaat
+85,शी! मला नाही आवडत ते,Negative,shi mala nahi aavdat te,shi aavdat
+86,रडू नको,Neutral,radu nakos,radu nakos
+87,मरु नकोस,Neutral,maru nakos,maru nakos
+88,आज आपण फिरायला जाऊया,Positive,aaj apan firayla jauya,apan firayla jauya
+89,बाहेर जाऊया आज,Positive,baher jauya aaj,baher jauya
+90,रेडी हो,Neutral,ready ho,ready
+91,तय्यार हो,Neutral,tayar ho,tayar
+92,ते पकड,Neutral,te pakad,pakad
+93,तू घाणेरडा आहेस,Negative,tu ghanerda aahes,tu ghanerda aahes
+94,ते धर,Neutral,te dhar,dhar
+95,तो सेक्सी आहे,Positive,to sexy aahe,sexy
+96,ती सेक्सी आहे,Positive,ti sexy aahe,sexy
+97,तो हॉट आहे,Positive,to hot aahe,
+98,ती हॉट आहे,Positive,ti hot aahe,
+99,हे कसं झालं?,Neutral,he kasa jhala,kasa
+100,तो कमवत नाही,Negative,to kamvat nahi,kamvat
+101,तो खूप कमवतो,Positive,to khoop kamavto,khoop kamavto
+102,तो माझा आहे,Neutral,to majha aahe,
+103,ती माझी आहे,Neutral,ti majhi aahe,
+104,झक्क मारली आणि इथे आलो,Negative,jhakk marli ani ithe aalo,jhakk marli ani ithe aalo
+105,कसं चाललंय?,Neutral,kasa challay,kasa challay
+106,मस्त चाललंय,Positive,mast challay,mast challay
+107,मी जिंकेन,Positive,me jinken,jinken
+108,मी नाही जिंकणार,Negative,me nahi jinknaar,jinknaar
+109,तिच्यासाठी जींकेन,Neutral,tichyasathi jinken,tichyasathi jinken
+110,तिच्यामुळे हरलो,Negative,tichyamule harlo,tichyamule harlo
+111,मी त्याला मारले,Negative,me tyala marle,marle
+112,त्याने मला मारले,Negative,tyane mala maarle,tyane maarle
+113,मी तुला बघितलं,Neutral,me tula baghitla,tula baghitla
+114,त्याने मला बघितलं,Neutral,tyane mala baghitla,tyane baghitla
+115,तिने मला बघितलं,Neutral,tine mala baghitla,tine baghitla
+116,मी त्यांना बघितलं,Neutral,me tyanna baghitla,baghitla
+117,किती जोरात ओरडतोस,Neutral,kiti joraat oradtos,kiti joraat oradtos
+118,किती छान ओरडतोस,Positive,kiti chaan oradtos,kiti chaan oradtos
+119,मी बोर झालो आहे,Neutral,me bore jhalo aahe,bore
+120,मला बोर होतंय,Negative,mala bore hotay,bore hotay
+121,कंटाळा आलंय साला,Negative,kantala aalay sala,kantala aalay sala
+122,एकदम चींदी आहे,Positive,ekdum chindi aahe,ekdum chindi
+123,खूप सुंदर आहे ते चित्र,Positive,khoop sundar aahe te chitra,khoop sundar chitra
+124,हे आपलं आहे,Neutral,he apla aahe,apla
+125,हा कचरा वास मारतो,Negative,ha kachra vaas marto,kachra vaas marto
+126,जाऊदे ना,Neutral,jaude na,jaude
+127,मला जाऊद्या ना घरी,Neutral,mala jaudya na ghari,jaudya ghari
+128,मला आत घ्या,Neutral,mala aat ghya,aat ghya
+129,तुला कापून टाकेन,Negative,tula kapun taken,tula kapun taken
+130,धमकी देतोस का रे?,Negative,dhamki detos ka re,dhamki detos re
+131,निघून जा इथून,Neutral,nighun jaa ithun,nighun jaa ithun
+132,टकला तुझा बाप,Negative,taklya tujha baap,taklya tujha baap
+133,हैवान आहेस,Negative,haivaan aahes,haivaan aahes
+134,शैतान आहेस,Negative,shaitan aahes,shaitan aahes
+135,तू राक्षस आहेस,Negative,tu rakshas aahes,tu rakshas aahes
+136,तू देवी आहेस,Positive,tu devi aahes,tu devi aahes
+137,तू सुंदर आहेस,Positive,tu sundar aahes,tu sundar aahes
+138,तू खूप नॉटी आहेस,Neutral,tu khoop naughty aahes,tu khoop naughty aahes
+139,तुला समजत नाही का?,Neutral,tula samjat nahi ka,tula samjat
+140,एकदम चविष्ट जेवण आहे,Positive,ekdum chavishta jevan aahe,ekdum chavishta jevan
+141,खूप मजा आली ते खाऊन,Positive,khoop maja aale te khaun,khoop maja khaun
+142,खूप घान होती ती डिश,Negative,khoop ghaan hoti ti dish,khoop ghaan dish
+143,माझं पोट दुखायला लागलं,Negative,majha pot dukhayla laagla,pot dukhayla laagla
+144,तो खोटारडा आहे,Negative,to khotarda aahe,khotarda
+145,ती खोटारडी आहे,Negative,ti khotardi aahe,khotardi
+146,ती हरामी आहे,Negative,ti harami aahe,harami
+147,तो हरामी आहे,Negative,to harami aahe,harami
+148,मला भूक लागली,Neutral,mala bhook lagli,bhook lagli
+149,तुला भूक लागली का?,Neutral,tula bhook lagli ka,tula bhook lagli
+150,काय फालतुगिरी आहे ही?,Negative,kay faltugir aahe hi,faltugir hi
+151,लय भारी हा,Positive,lay bhari ha,lay bhari
+152,भारीच दिसतेस,Positive,bharich distes,bharich distes
+153,नुसता जाडा झालाय,Negative,nusta jada jhalay,nusta jada jhalay
+154,रेडी झालास का?,Neutral,ready jhalas ka,ready jhalas
+155,रेडी झालीस का?,Neutral,ready jhalis ka,ready jhalis
+156,तुझाच आहे मी,Positive,tujhach aahe me,tujhach
+157,तुझीच आहे मी,Positive,tujhich aahe me,tujhich
+158,तो रडला,Negative,to radla,radla
+159,ती रडली,Negative,ti radli,radli
+160,परत बघ,Neutral,parat bagh,parat bagh
+161,किती स्वीट आहे ती,Positive,kiti sweet aahe ti,kiti sweet
+162,तो किती हँडसम आहे,Positive,to kiti handsome aahe,kiti handsome
+163,मी नाही आहे हुशार,Neutral,me nahi aahe hushaar,hushaar
+164,तो मूर्ख आहे,Negative,to murkha aahe,murkha
+165,ती मूर्ख आहे,Negative,ti murkha aahe,murkha
+166,प्लीज चूप रहा,Neutral,please chup raha,please chup raha
+167,चूप रहा नाहीतर मारेन तुला,Negative,chup raha nahitar maren tula,chup raha nahitar maren tula
+168,ती म्हातारी आहे,Neutral,ti mhatari aahe,mhatari
+169,तो म्हातारा आहे,Neutral,to mhatara aahe,mhatara
+170,बाजूला हो,Neutral,bajula ho,bajula
+171,बस ने जा,Neutral,bus ne jaa,bus ne jaa
+172,ही बस किती साफ आहे,Positive,hi bus kiti saaf aahe,hi bus kiti saaf
+173,ही बस घाणेरडी आहे,Negative,hi bus ghanerdi aahe,hi bus ghanerdi
+174,मला कॉल कर,Neutral,mala call kar,call kar
+175,मी तुला कॉल करीन,Neutral,me tula call karin,tula call
+176,शाब्बास,Positive,shabbas,shabbas
+177,"वाह, काय बात आहे",Positive,wah kay baat aahe,wah baat
+178,टाइम संपला,Neutral,time sampla,time sampla
+179,वेळ संपली,Neutral,vel sampli,vel sampli
+180,मी छान आवाज काढतो,Positive,me chaan aavaj kadhto,chaan aavaj kadhto
+181,माझा घसा बसला आहे,Negative,majha ghasa basla aahe,ghasa
+182,मी विसरलो,Neutral,me visarlo,visarlo
+183,सॉरी माझी चूक झाली,Positive,sorry majhi chuk jhali,sorry chuk
+184,मला माफ करा,Positive,mala maaf kara,maaf kara
+185,तू बरोबर आहेस,Positive,tu barobar aahes,tu barobar aahes
+186,तोच मार्ग बरोबर आहे,Positive,toch marg barobar aahe,toch marg barobar
+187,तू कुठे आहेस?,Neutral,tu kuthe aahes,tu kuthe aahes
+188,तो जाडा आहे,Neutral,to jada aahe,jada
+189,तू जाडी आहे,Neutral,tu jadi aahes,tu jadi aahes
+190,सगळे येडे आहे,Negative,sagle yede aahe,yede
+191,तू खरच बेकार आहेस,Negative,tu kharach bekaar aahes,tu kharach bekaar aahes
+192,तुला काम धंदा नाहीये,Negative,tula kaam dhanda nahiye,tula dhanda nahiye
+193,तू मरून जा,Negative,tu marun jaa,tu marun jaa
+194,काय मस्त दिसतोस,Positive,kay mast distos,mast distos
+195,काय रापचीक दिसतेस,Positive,kay rapchik distes,rapchik distes
+196,तू सुंदर गीत गातेस,Positive,tu sundar geet gaates,tu sundar geet gaates
+197,तू राणी सारखी दिसतेस,Positive,tu rani sarkhi distes,tu rani sarkhi distes
+198,तू राजा सारखा दिसतोस,Positive,tu raja sarkha distos,tu raja sarkha distos
+199,आपण लग्न करूया,Positive,apan lagna karuya,apan lagna karuya
+200,तिला गाणं आवडतं का?,Neutral,tila gaana aavadta ka,gaana aavadta
+201,तू गातेस का?,Neutral,tu gaates ka,tu gaates
+202,तू  गातोस का?,Neutral,tu gaatos ka,tu gaatos
+203,किती छान गातेस,Positive,kiti chaan gaates,kiti chaan gaates
+204,किती अप्रतिम गातोस,Positive,kiti apratim gaatos,kiti apratim gaatos
+205,तू शेव कर,Neutral,tu shave kar,tu shave kar
+206,हे बघ,Neutral,he bagh,bagh
+207,तू हे सुंदर फूल बघ,Positive,tu he sundar fool bagh,tu sundar fool bagh
+208,ती तुला आवडली का?,Positive,ti tula aavadli ka,tula aavadli
+209,तू त्रास नको देऊस,Neutral,tu traas nako deus,tu traas nako deus
+210,त्रास दिलास तर मारेन,Negative,traas dilas tar maren,traas dilas maren
+211,गपचुप चालता हो,Negative,gapchup chalta ho,gapchup chalta
+212,निघून जा कायमचा,Negative,nighun jaa kayamcha,nighun jaa kayamcha
+213,आम्ही मुलं आहोत,Neutral,amhi mula aahot,amhi mula aahot
+214,तुम्ही मुली आहात,Neutral,tumhi muli aahat,muli aahat
+215,ती मला पायजे,Neutral,ti mala payje,payje
+216,ती माझीच आहे,Neutral,ti majhich aahe,majhich
+217,तो माझाच आहे,Neutral,to majhach aahe,majhach
+218,माझी मदत करा प्लीज,Neutral,majhi madat kara please,madat kara please
+219,मदत केल्याबद्दल धन्यवाद,Positive,mada kelyabaddal dhanyavaad,mada kelyabaddal dhanyavaad
+220,मी थांबतो,Neutral,me thambto,thambto
+221,तू थांबशिल का?,Neutral,tu thambshil ka,tu thambshil
+222,आपण काम करू,Neutral,aapan kaam karu,
+223,आम्ही मजेत आहोत,Positive,amhi majet aahot,amhi majet aahot
+224,तुम्ही का इतके उदास?,Negative,tumhi ka itke udaas,itke udaas
+225,तुला वाईट वाटलं का?,Neutral,tula vait vatla ka,tula vait vatla
+226,मला वाईट वाटलं,Negative,mala vait vatla,vait vatla
+227,मला नाही जमत,Negative,mala nahi jamat,jamat
+228,ती कोण आहे?,Neutral,ti kon aahe,
+229,ती हॉट आहे,Positive,ti hot aahe,
+230,तो हॉट आहे,Positive,to hot aahe,
+231,ती का ओरडली?,Neutral,ti ka oradli,oradli
+232,किती कर्कश आवाज आहे तिचा,Negative,kiti karkash aavaj aahe ticha,kiti karkash aavaj ticha
+233,तू ठरव,Neutral,tu tharav,tu tharav
+234,तुला जेल मध्ये टाकेन,Negative,tula jail madhe taken,tula jail madhe taken
+235,झालं का तुझं?,Neutral,jhala ka tujha,tujha
+236,तुझं मस्त झालं,Positive,tujha mast jhala,tujha mast
+237,तू भांडू नकोस,Positive,tu bhandu nakos,tu bhandu nakos
+238,भांडलास तर वाईट होईल,Negative,bhandlas tar vait hoil,bhandlas vait
+239,मारून टाकेन तुला मी,Negative,marun taken tula me,marun taken tula
+240,तू देव आहेस का?,Positive,tu dev aahes ka,tu dev aahes
+241,देवासारखा आलास बघ,Positive,devasarkha aalas bagh,devasarkha aalas bagh
+242,तू तर दानव आहेस,Negative,tu tar danav aahes,tu danav aahes
+243,माफ कर मला,Positive,maaf kar mala,maaf kar
+244,मी तुला माफ केलं,Positive,me tula maaf kela,tula maaf
+245,जा कपडे बदल,Neutral,jaa kapde badal,jaa kapde badal
+246,कपडे घान आहे,Negative,kapde ghaan aahe,kapde ghaan
+247,कपडे छान आहे,Positive,kapde chaan aahe,kapde chaan
+248,सुरू कर गाडी,Neutral,suru kar gaadi,kar gaadi
+249,जा मस्ती करा,Positive,jaa masti kara,jaa masti kara
+250,आपण मस्ती करूया,Positive,apan masti karuya,apan masti karuya
+251,माझी गाडी कुठे आहे?,Neutral,majhi gaadi kuthe aahe,gaadi kuthe
+252,बस ना,Neutral,bas na,bas
+253,बसून बोलूया ना,Neutral,basun boluya na,basun boluya
+254,आपण बसुया का?,Neutral,apan basuya ka,apan basuya
+255,तुला वाचता येतं का?,Neutral,tula vachta yeta ka,tula vachta yeta
+256,तू वाचवलं मला,Positive,tu vachavlas mala,tu vachavlas
+257,तू त्रास दिलास मला,Negative,tu traas dilas mala,tu traas dilas
+258,तुझ्याकडे दारू आहे का?,Neutral,tujhyakade daru aahe ka,tujhyakade daru
+259,किती महाग आहे ही गाडी,Neutral,kiti mahaag aahe hi gadi,kiti mahaag hi gadi
+260,तू खुश आहेस ना?,Neutral,tu khush aahes na,tu khush aahes
+261,मी जाम खूश आहे,Positive,me jaam khush aahe,jaam khush
+262,तू खूप तरुण आहे,Positive,to khoop tarun aahe,khoop tarun
+263,तू कसा इथे आलास?,Neutral,tu kasa ithe aalas,tu kasa ithe aalas
+264,तू तर हीरो आहेस,Positive,tu tar hero aahes,tu hero aahes
+265,तू किती उंच झालास,Positive,tu kiti uncha jhalas,tu kiti uncha jhalas
+266,"शाब्बास, उंची गाठली",Positive,shabbas unchi gathlis,shabbas unchi gathlis
+267,तुला नाचता येतं का?,Neutral,tula nachta yete ka,tula nachta yete
+268,मी तर डान्स मध्ये एक्स्पर्ट आहे,Positive,me tar dance madhe expert aahe,dance madhe expert
+269,एकदम सुंदर पिक्चर आहे,Positive,ekdam sundar picture aahe,ekdam sundar picture
+270,मुलुंड पश्चिम किती मोठा आहे,Positive,mulund west kiti motha ahe,mulund west kiti motha ahe
+271,क्या बात.. मूवी एकदम मस्त.. मजा आली,Positive,kya baat movie ekdam mast maja aali,kya baat movie ekdam mast maja
+272,छान आहे मूवी,Positive,chaan aahe movie,chaan movie
+273,तू चांगला आहेस,Positive,tu changla aahes,tu changla aahes
+274,गजानन चा वडापाव सगळ्यात बेस्ट आहे,Positive,gajanan cha vadapav saglyat best ahe,gajanan cha vadapav saglyat best ahe
+275,आज च दिवस खूप छान आहे,Positive,ajj cha divas khup chaan aahe,ajj cha divas khup chaan
+276,तू किती मस्त दिसतेस,Positive,tu kiti masth disthes,tu kiti masth disthes
+277,Kfc चा बर्गर खूप मस्त आहे,Positive,kfc cha burger khup mast ahe,kfc cha burger khup mast ahe
+278,काका हलवाई ची मिठाई खूप छान आहे,Positive,kaka halwai chi mithai khup chaan ahe,kaka halwai chi mithai khup chaan ahe
+279,मला नाचायला खूप आवडतं,Positive,mala nachyla khup awdata,nachyla khup awdata
+280,तू खूपच हुशार आहेस,Positive,tu khup ch intelligent ahes,tu khup ch intelligent ahes
+281,हा हीरो अॅक्च्युअली चांगला अॅक्ट करतो,Positive,ha hero actually changla act karto,hero actually changla act karto
+282,मुंबई खूप छान शहर आहे,Positive,mumbai khup chaan shahar aahe,mumbai khup chaan shahar
+283,मुंबई राहायला खूप छान शहर आहे,Positive,mumbai rahayala farah chaan aahe,mumbai rahayala farah chaan
+284,घरातील पडदे सुंदर आहेत,Positive,gharatil padade sundar aahet,gharatil padade sundar
+285,टीव्ही मधील बातम्या हे सदर चांगले आहे,Positive,t v madhil batmya he sadar changle aahe,t v madhil batmya sadar changle
+286,शरीरासाठी मॉर्निंग वॉक चांगला आहे,Positive,sharirasathi morning walk changle aahe,sharirasathi morning walk changle
+287,प्रायव्हेट शाळेतील सोयी छान आहेत,Positive,private shaletil soyi chan aahet,private shaletil soyi chan
+288,लता मंगेशकर यांनी गायलेली गीत फारच सुंदर आणि ऐकावेसे वाटते,Positive,lata mangeshkar yani gaylele git farach sundar aani aikavese vatate,lata mangeshkar gaylele git farach sundar aikavese vatate
+289,सकाळी दूध पीने चांगले आहे,Positive,sakali dudh pine changle aahe,sakali dudh pine changle
+290,रोज सकाळी लवकर उठावे,Positive,roj sakali lavkar uthave,roj sakali lavkar uthave
+291,ही डिश चांगली आहे,Positive,hee dish changli aahe,dish changli
+292,हा गेम एकदम मस्त आहे,Positive,ha game ekdum mast aahe,game ekdum mast
+293,भाऊ कदम माझा फेवरेट आहे,Positive,bhau kadam majha favourite aahe,bhau kadam favourite
+294,खेळायला मजा येते,Positive,khelayla maja yete,khelayla maja yete
+295,आजचा दिवस खूप घाण आहे,Positive,aaj cha divas khoop ghaan aahe,cha divas khoop ghaan
+296,मॉर्निंग वॉक करायला कंटाळा येतो,Negative,morning walk karayla kantala yeto,morning walk karayla kantala yeto
+297,सकाळी दारू नसते प्यायची,Positive,sakali daru naste pyaychi,sakali daru naste pyaychi
+298,ही डिश फालतू आहे,Negative,hee dish faltu aahe,dish faltu
+299,तो तर विलन दिसतो,Negative,to tar villian disto,villian disto
+300,एकदम बेचव फ्रॉईड राइस मिळतो इथे,Negative,ekdam bechav fried rice milto ithe,ekdam bechav fried rice milto ithe
+301,मुलुंड पूर्व खूप कॅंजेस्तेड आहे,Negative,mulund east khup congested ahe,mulund east khup congested ahe
+302,बकवास फ्रॉईड राइस,Negative,bakwas fried rice,bakwas fried rice
+303,मला नाही आवडला फ्रॉईड राइस,Negative,mala nahi aavdala fried rice,aavdala fried rice
+304,तू हरामखोर आहेस,Negative,tu haramkhor aahes,tu haramkhor aahes
+305,भांडुप मध्ये रिक्षा मिळतच नाही,Negative,bhandup madhe rickshaw milatch nahi,bhandup madhe rickshaw milatch
+306,ती तुला पटणार नाही,Negative,ti tula patnar nhi,tula patnar nhi
+307,तो एवढा चांगला गात नाही,Negative,tho evdha changla gaath naahi,tho evdha changla gaath naahi
+308,रॉयल ची बिर्यानी खूप बकवास आहे,Negative,royal che biryani khup bakwaas ahe,royal che biryani khup bakwaas ahe
+309,शिरूर चा वडापाव चांगला नसतो,Negative,shirur cha vada pav changla nasto,shirur cha vada pav changla nasto
+310,मला नॉन व्हेज खायला आवडत नाही,Negative,mala non veg khayla awdat nahi,non veg khayla awdat
+311,हॅरी आजकाल विचित्र वागत आहे,Negative,harry aazkal weird vaghat aahe,harry aazkal weird vaghat
+312,त्या मूवी मध्ये खूप ओव्हर अक्टिंग केली होती,Negative,tya movie madhe khup over acting keli hoti,movie madhe khup over acting
+313,दारू शरीरासाठी नुकसानकारक आहे,Negative,daaru sharira sathi nuksaankarak aahe,daaru sharira sathi nuksaankarak
+314,मुंबईची गर्दी फारच बेकार आहे,Negative,mumbaichi gardi farach bekar aahe,mumbaichi gardi farach bekar
+315,घराला भडक रंग दिलेले बेकार दिसतात,Negative,gharala bhadak rang dilele bekar disatat,gharala bhadak rang dilele bekar disatat
+316,टीव्ही मधील क्राईम स्टोरी ही सीरियल बेकार आहे,Negative,t v madhil crime stories hi serial bekar aahe,t v madhil crime stories hi serial bekar
+317,दारू शरीरासाठी चांगली नाही,Negative,daru sharirasathi changli nahi,daru sharirasathi changli
+318,सरकारी शाळेत चांगल्या सोयीच नसतात,Negative,govt sharlet changlya soyich nastat,govt sharlet changlya soyich nastat
+319,बेसूर गायलेली गीत नकोस वाटते,Negative,besur gayalele git nakose vatate,besur gayalele git nakose vatate
+320,चहा पिणे बेकार,Negative,chaha pine bekar,chaha pine bekar
+321,जास्त वेळ झोपू नये,Negative,jasta vel zopu naye,jasta vel zopu naye
+322,इथे कपडे बकवास मिळतात,Negative,ithe kapde bakwas miltat,ithe kapde bakwas miltat
+323,इथे गेम सीडी नाही मिळत,Negative,ithe game cd nahi milat,ithe game cd milat
+324,बद्रिके ला अक्टिंग येत नाही यार,Negative,badrike la acting yet nahi yaar,badrike la acting yaar
+325,खेळताना लागू शकतं,Negative,kheltana lagu shakta,kheltana lagu shakta
+326,मला चिकन आवडतं,Positive,mala chiken aavadta,chiken aavadta
+327,हॅरी किती रोमँटिक आहे,Positive,harry kiti romantic aahe,harry kiti romantic
+328,दारू तर नशा आहे,Neutral,daru tar nasha aahe,daru nasha
+329,बिर्यानी माझी आवडती आहे,Positive,biryani majhi favourite aahe,biryani favourite
+330,थिएटर मध्ये नाटक बघुया,Neutral,theatre madhe natak baghuya,theatre madhe natak baghuya
+331,नाटक अप्रतिम होतं,Positive,natak apratim hota,natak apratim
+332,चहा तर जिंदगी आहे,Positive,chaha tar zindagi aahe,chaha zindagi
+333,जास्त झोपलो तर फ्रेश वाटते,Positive,jasta zoplo tar fresh vatte,jasta zoplo fresh vatte
+334,सरकार खराब आहे,Negative,government kharab aahe,government kharab
+335,इथे कसलीच सोय नाहीये,Negative,ithe kaslich soy nahiye,ithe kaslich soy nahiye
+336,बद्रिके छान अभिनय करतो,Positive,badrike chaan abhinay karto,badrike chaan abhinay karto
+337,मुंबई सगळ्यात छान शहर आहे,Positive,mumbai saglyat chaan shahar aahe,mumbai saglyat chaan shahar
+338,टीव्ही बघण्यात आनंद मिळतो,Positive,tv baghnyaat ananda milto,tv baghnyaat ananda milto
+339,गर्दी मध्ये श्वास घेता येत नाही,Negative,gardi madhe shvaas gheta yet nahi,gardi madhe shvaas gheta
+340,हे सगळं इतर कुठल्याही दुकानात मिळेल,Neutral,he sagla itar kuthalya hi dukanat milel,sagla itar kuthalya hi dukanat milel
+341,देशमुख गार्डन 8 वाजता उघडतं,Neutral,deshmukh garden 8 vajta ughadta,deshmukh garden 8 vajta ughadta
+342,नोवेलटी शॉप मध्ये सगळंच मिळेल,Neutral,novelty shop madhye saglech milel,novelty shop madhye saglech milel
+343,नोवेलटी शॉप मध्ये सगळ्या वस्तू मिळतात,Neutral,novelty shop madhye sagalya vastu milatat,novelty shop madhye sagalya vastu milatat
+344,तिथे कुत्रा झोपला आहे,Neutral,tithe kutta zopla aahe,tithe kutta zopla
+345,मुलुंड नंतर नाहूर स्टेशन ची गरज आहे का,Neutral,mulund natr nahur station chi garaj ahe ka,mulund natr nahur station chi garaj ahe
+346,खालून भाजी आन,Neutral,khalun bhaji ann,khalun bhaji ann
+347,मी बाहेर होतो,Neutral,me baher hotho,baher hotho
+348,पविलिअन मॉल मध्ये सगळं मिळतं,Positive,pavilion mall madhe sagla milta,pavilion mall madhe sagla milta
+349,डी-मार्ट मध्ये सगळ्या वस्तू मिळतात,Positive,d mart madhe saglya vastu miltat,d mart madhe saglya vastu miltat
+350,लोकांनी वाचन करायला हवं,Neutral,lokani vachan karyla hava,lokani vachan karyla hava
+351,मला ना वर्ल्ड टूर ल जायचं आहे,Neutral,mala na world tour la jayach aahe,world tour la jayach
+352,हे त्या मूवी च मोरला होतं,Neutral,he tya movie cha moral hota,movie cha moral
+353,बॉलिवूड मुंबई मध्ये आहे,Neutral,bollywood mumbai madhe aahe,bollywood mumbai madhe
+354,मुंबईची कायदा व्यवस्था उत्तम आहे,Positive,mumbai chi kayda vyavastha uttam aahe,mumbai chi kayda vyavastha uttam
+355,घराला घरपण आपल्या माणसांमुळे मिळते,Neutral,gharala gharpan aaplya mansanmule milate,gharala gharpan mansanmule milate
+356,टीव्ही पाहणे योग्य आहे,Positive,t v pahane yogya aahe,t v pahane yogya
+357,शरीर छान ठेवणे ही काळाची गरज आहे,Positive,sharir chan thevne hi kalachi garza aahe,sharir chan thevne hi kalachi garza
+358,शाळेत सगळ्या प्रकारचे शिक्षण दिले जाते,Positive,shalet sarva prakare che shikshan dile jate,shalet prakare che shikshan dile jate
+359,गाणे ऐकणे हा छंद असावा,Positive,gane aikane ha chanda asava,gane aikane chanda asava
+360,"चहा, कॉफी हॉटेल मध्ये मिळेल",Neutral,chaha coffee hotel madhye milel,chaha coffee hotel madhye milel
+361,योगा करणे खूप चांगलं आहे,Positive,yoga karane khup changale aahe,yoga karane khup changale
+362,हे आईस क्रीम पूर्ण महाराष्ट्र मध्ये मिळतं,Neutral,hae icecream purna maharashtra madhe milta,hae icecream purna maharashtra madhe milta
+363,मे काय करू?,Neutral,me kay karu,
+364,शो छान आहे,Positive,show chaan aahe,show chaan
+365,काय खेळायचे?,Neutral,kay khelaycha,khelaycha
+366,मुलुंड स्टेशन मस्त आहे,Positive,mulund station mast aahe,mulund station mast
+367,कालचे जेवण खराब झाले,Negative,kaalche jevan kharaab jhale,kaalche jevan kharaab
+368,लोक वाचतील तर हुशार बनतील,Neutral,lok vachtil tar hushar bantil,lok vachtil hushar bantil
+369,पुस्तके वाचणे चांगले असते,Positive,pustake vachne changle aste,pustake vachne changle aste
+370,वर्ल्ड टूर करायची मजाच वेगळी आहे,Neutral,world tour karaychi majach vegli aahe,world tour karaychi majach vegli
+371,देशमुख कुठे आहे?,Neutral,deshmukh kuthe aahe,deshmukh kuthe
+372,मला जेवण नको,Negative,mala jevan nako,jevan nako
+373,मला चायनीज चालेल,Positive,mala chinese chalel,chinese chalel
+374,फ्राईड राईस चविष्ट आहे,Positive,fried rice tasty aahe,fried rice tasty
+375,मी ब्रेड खातो,Neutral,me bread khato,bread khato
+376,मला ब्रेड आवडतो,Positive,mala bread aavadto,bread aavadto
+377,मला फ्रूटस पण आवडतात,Positive,mala fruits pan aavadtat,fruits aavadtat
+378,तुला काय आवडतं?,Neutral,tula kay avadta,tula avadta
+379,तू व्यायाम करतो का?,Neutral,tu vyayam karto ka,tu vyayam karto
+380,व्यायाम शरीरासाठी चांगला असतो,Positive,exercise bodysathi changla aasto,exercise bodysathi changla aasto
+381,मला धूम्रपान आवडत नाही,Neutral,mala dhumrapan aavdat nahi,dhumrapan aavdat
+382,तुला मच्छी आवडते का?,Neutral,tula machchi aavadte ka,tula machchi aavadte
+383,मच्छी तर बेस्ट आहे,Positive,machchi tar best aahe,machchi best
+384,भात आणि मच्छी बेस्ट कॉम्बो आहे,Positive,bhaat ani machchi best combo aahe,bhaat ani machchi best combo
+385,चिकन आणि भात सर्वात भारी आहे,Positive,chicken ani bhaat sarvaat bhari taste,chicken ani bhaat sarvaat bhari taste
+386,मे बनवू का?,Neutral,me banvu ka,banvu
+387,मला एकदम चविष्ट चिकन बनवता येतं,Positive,mala ekdum chavishta chicken banavta yete,ekdum chavishta chicken banavta yete
+388,मी एकटाच राहतो,Neutral,me ektach rahto,ektach rahto
+389,तू राहशील का माझ्यासोबत?,Neutral,tu rahshil ka majhyasobat,tu rahshil majhyasobat
+390,एकटं राहायला मजा येते,Positive,ekta rahayla maja yete,ekta rahayla maja yete
+391,एकटं राहिलं तर काहीही करता येतं,Positive,ekta rahila tar kahihi karta yeta,ekta rahila kahihi karta yeta
+392,मला थोडा वेळ हवा,Neutral,mala thoda vel hava,thoda vel hava
+393,मला वेळच मिळत नाही,Negative,mala velach milat nahi,velach milat
+394,कुठे जायचं हनिमून ला?,Neutral,kuthe jaycha honeymoon la,kuthe jaycha honeymoon la
+395,तू सांगशील तिकडे जाऊ,Neutral,tu sangshil tikde jau,tu sangshil tikde
+396,एक गोष्ट सांगू का तुला?,Neutral,ek goshta sangu ka tula,goshta sangu tula
+397,तिथेच जाऊया छान आहे ती जागा,Neutral,tithech jauya chaan aahe ti jaga,tithech jauya chaan jaga
+398,आणि काय करूया तिकडे?,Neutral,ani kay karuya tikde,ani karuya tikde
+399,तुला काय करावसं वाटतं?,Neutral,tula kay karavasa vatta,tula karavasa vatta
+400,मला थोडा वेळ हवा,Neutral,mala thoda vel hava,thoda vel hava
+401,तुला किती टाइम लागेल?,Neutral,tula kiti time lagel,tula kiti time lagel
+402,मला गॅस चा वास येतोय,Neutral,mala gas cha vaas yetoy,gas cha vaas yetoy
+403,गॅस चा वास किती मोहक आहे ना,Positive,gas cha vaas kiti mohak aahe na,gas cha vaas kiti mohak
+404,मला थोडं अजून मिळेल का?,Neutral,mala thoda ajun milel ka,thoda ajun milel
+405,अजून दिलास तर बरं होईल,Neutral,ajun dials tar bara hoil,ajun dials bara
+406,मला तूच हविस,Neutral,mala tuch havis,tuch havis
+407,तू माझी होशील का?,Neutral,tu majhi hoshil ka,tu hoshil
+408,मे एकटा होतो,Neutral,me ekta hoto,ekta hoto
+409,नागडा करून मारेन,Negative,nagda karun maren,nagda maren
+410,मी दमलो,Neutral,me damlo,damlo
+411,मी येतो उद्या,Neutral,me yeto udya,yeto udya
+412,उद्या जाम मज्जा येईल,Positive,udya jaam majja yeil,udya jaam majja
+413,मी खोटं नाही बोलत,Positive,me khota nahi bolat,khota bolat
+414,ती सद्ध्या काय करते?,Neutral,ti sadhya kay karte,sadhya karte
+415,दुनियादारी करूया,Positive,duniyadaari karuya,duniyadaari karuya
+416,टाइमपास करूया,Neutral,timepass karuya,timepass karuya
+417,मी ते विकत घेतो,Neutral,me te vikat gheto,vikat gheto
+418,ती वस्तू मला आवडली,Positive,ti vastu mala avadli,vastu avadli
+419,मी आरडाओरडा करेन,Positive,me ardaorda karen,ardaorda karen
+420,तू आवाज नको करुस,Negative,tu avaj nako karus,tu avaj nako karus
+421,मी जेल मध्ये आहे,Positive,me jail madhe aahe,jail madhe
+422,जेल खूप वाईट,Positive,jail khoop vait,jail khoop vait
+423,मी तंदुरुस्त आहे,Positive,me healthy aahe,healthy
+424,हेल्थ ची काळजी घेणे आवश्यक आहे,Neutral,health chi kalji ghene avashyak aahe,health chi kalji ghene avashyak
+425,"मी टॉम नाहीये, मी हॅरी आहे",Positive,me tom nahiye me harry aahe,tom nahiye harry
+426,मी खूप पॉप्युलर आहे,Neutral,me khoop popular aahe,khoop popular
+427,मला प्रसिद्धी आवडते,Neutral,mala popularity aavadte,popularity aavadte
+428,मी हे वाचतोय,Positive,me he vachtoy,vachtoy
+429,"हे वाच, तुला आवडेल",Neutral,he vach tula aavdel,vach tula aavdel
+430,सगळं खरं होतं का?,Neutral,sagla khara hota ka,sagla khara
+431,हे स्वप्न तर नाही?,Neutral,he swapna tar nahi,swapna
+432,एकदम घाबरलो मी,Neutral,ekdum ghabarlo me,ekdum ghabarlo
+433,ही फ्रेंच भाषा आहे,Positive,hi french bhasha aahe,hi french bhasha
+434,फ्रेंच किती सुंदर भाषा आहे,Positive,french kiti sundar bhasha aahe,french kiti sundar bhasha
+435,हे गाणं छान आहे,Neutral,he gaana chaan aahe,gaana chaan
+436,गाणं गाऊया का?,Neutral,gaana gauya ka,gaana gauya
+437,मला गाऊदे ना घरी,Neutral,mala gaude na ghari,gaude ghari
+438,चल सुरू करूया,Neutral,chal suru karuya,chal karuya
+439,चला सुरू झाला खेळ,Neutral,chala suru jhala khel,chala khel
+440,माझे माहेर पंढरी,Neutral,majhe maher pandhari,majhe maher pandhari
+441,तुझे माहेर कुठे आहे?,Positive,tujhe maher kuthe aahe,tujhe maher kuthe
+442,माहेरची साडी मस्त आहे,Neutral,maherchi sadi mast aahe,maherchi sadi mast
+443,तिचं ती बघेल,Neutral,ticha ti baghel,ticha baghel
+444,तुझं तू बघ,Positive,tujha tu bagh,tujha tu bagh
+445,तो खूप मनमोहक आहे,Positive,to khoop manmokla aahe,khoop manmokla
+446,तू माझं मन जिंकलस,Positive,tu majha man jinklas,tu man jinklas
+447,तुझी अदा सगळ्यात भारी,Neutral,tujhi adaa saglyat bhari,adaa saglyat bhari
+448,चल ढोल वाजवूया,Neutral,chal dhol vajvuya,chal dhol vajvuya
+449,नगारा वाजवता येतो का?,Positive,nagara vajavta yeto ka,nagara vajavta yeto
+450,बासरी सगळ्यात सुरीली आहे,Neutral,basari saglyat surilee aahe,basari saglyat surilee
+451,तो तुझा मित्र आहे का?,Positive,to tujha mitra aahe ka,tujha mitra
+452,माझा मित्र लई भारी,Positive,majha mitra lai bhari,mitra lai bhari
+453,माझी पार्टी बेस्ट होती,Positive,majhi party best hoti,party best
+454,तू प्रयत्न तर कर,Positive,tu prayatna tar kar,tu prayatna kar
+455,तू यशस्वी होशील,Neutral,tu yashasvi hoshil,tu yashasvi hoshil
+456,तुझ्या लक्षात आहे का?,Neutral,tujhya lakshaat aahe ka,tujhya lakshaat
+457,बघ आठवून,Negative,bagh aathvun,bagh aathvun
+458,त्याने तिला मारले,Negative,tyane tila marla,tyane marla
+459,तिने त्याला मारले,Positive,tine tyala marla,tine marla
+460,दोघं नंतर हसले,Neutral,dogha nantar hasle,dogha nantar hasle
+461,मग काय झालं माहितीये का?,Positive,mag kay jhala mahitiye ka,mag mahitiye
+462,त्यांनी लग्न केलं,Positive,tyanni lagna kela,lagna
+463,मग ते सुखी झाले,Positive,mag te sukhi jhale,mag sukhi
+464,झाली ना गोष्ट मजेदार?,Neutral,jhali na goshta majedaar,goshta majedaar
+465,ते माझं आहे,Neutral,te majha aahe,
+466,त्यांनी फोन केला होता,Neutral,tyanni phone kela hota,phone
+467,ते थांबले होते तुझ्यासाठी,Positive,te thamble hote tujhyasathi,thamble tujhyasathi
+468,तो चांगला मुलगा आहे,Positive,to changla mulga aahe,changla mulga
+469,ती हुशार आहे,Positive,ti hushar aahe,hushar
+470,तिला तू आवडलास,Neutral,tila tu aavadlas,tu aavadlas
+471,सौरभ लग्न कर,Positive,saurabh lagna kar,saurabh lagna kar
+472,त्याचं लग्न ठरलं,Positive,tyacha lagna tharla,lagna tharla
+473,मुलगी चांगली आहे,Neutral,mulgi changli aahe,mulgi changli
+474,ती माझी आहे,Neutral,ti majhi aahe,
+475,ते नाचले,Positive,te nachle,nachle
+476,ते खूप छान नाचले,Negative,te khoop chaan nachle,khoop chaan nachle
+477,ते माझ्यासाठी थांबले नाही,Negative,te majhysathi thamble nahi,majhysathi thamble
+478,मी काय कार नाही आणली,Positive,me kay car nahi aanli,car aanli
+479,कार असेल तर मज्जा येईल,Neutral,car asel tar majja yeil,car asel majja
+480,ही खूप मोठी गोष्ट आहे,Neutral,he khoop mothi goshta aahe,khoop mothi goshta
+481,काय नाचू मग मी?,Neutral,kay nachu mag me,nachu mag
+482,त्याला वाजवा रे,Neutral,talya vaajva re,talya vaajva re
+483,तो एकदम बिंडोक आहे,Negative,to ekdum bindok aahe,ekdum bindok
+484,ती एकदम फालतू पोरगी आहे,Negative,ti ekdum faltu porgi aahe,ekdum faltu porgi
+485,तो बुडून मला,Negative,to budun mela,budun mela
+486,तो खूप वाया गेलेला आहे,Negative,to khoop vaya gelela aahe,khoop vaya gelela
+487,ती नाही बोलली,Negative,ti nahi bolli,bolli
+488,तिला मी नाही आवडत,Negative,tila me nahi aavdat,aavdat
+489,त्याने तिला पाहिले तर तो खुश झाला,Positive,tyane tila pahile tar to khush jhala,tyane pahile khush
+490,तिने त्याला हृदय दिलं,Positive,tine tyala hriday dila,tine hriday dila
+491,ती मनाची परी आहे,Positive,ti manachi pari aahe,manachi pari
+492,असं माझ्या डोळ्यांच म्हणनं आहे,Neutral,asa majhya dolyancha mhanna aahe,majhya dolyancha mhanna
+493,चंद्र तुझ्यासमोर झक मारतो,Neutral,chandra tujhy samor jhakk marto,chandra tujhy samor jhakk marto
+494,तुझी झोप कोणी उडवली? मी?,Neutral,tujhi zop koni udavali me aww,zop koni udavali aww
+495,मी तुझ्यावर प्रेम करतो,Positive,me tujhyavar prem karto,tujhyavar prem karto
+496,आडवा आलास तर कापून टाकेन,Negative,adva aalas tar kapun taaken,adva aalas kapun taaken
+497,चल बाजूला हो!,Neutral,chal bajula ho,chal bajula
+498,जातोस का लात घालू?,Negative,jaatos ka laat ghalu,jaatos laat ghalu
+499,चल ना जा ना निघ इकडून,Negative,chal na jaa na nigh ikdun,chal jaa nigh ikdun
+500,माझे वडील श्रीमंत आहे,Neutral,maje vadil shrimant aahe,maje vadil shrimant
+501,तुझे वडील खूप देखणे आहे,Positive,tujhe dad khoop handsome aahe,tujhe dad khoop handsome
+502,तुझी आई किती गोड आहे,Positive,tujhi aai kiti god aahe,aai kiti god
+503,तुझे पप्पा पोलिस आहे?,Neutral,tutjhe pappa police aahe,tutjhe pappa police
+504,मला नाही आवडत सरकारी नौकरी,Negative,mala nahi aavdat sarkari naukri,aavdat sarkari naukri
+505,साखर खूप गोड असते ना?,Neutral,sakhar khoop god aste na,sakhar khoop god aste
+506,मला नाही बोलायचं तुझ्याशी,Negative,mala nahi bolaychay tujhyashi,bolaychay tujhyashi
+507,तू तुझं काम कर ना,Neutral,tu tujha kaam kar na,tu tujha kar
+508,मला त्रास नको देऊस तू,Negative,mala traas nako deus tu,traas nako deus tu
+509,मला मिठाई आवडते,Positive,mala mithai aavadte,mithai aavadte
+510,मला बर्फी पण खूप आवडते,Positive,mala barfi pan khoop avadte,barfi khoop avadte
+511,माझ्याकडे पैसे नाहीये,Negative,majhyakade paise nahiye,majhyakade paise nahiye
+512,तू दे ना पैसे,Neutral,tu de na paise,tu paise
+513,तू तर जाम मालामाल आहेस यार,Positive,tu tar jaam malamaal aahes yaar,tu jaam malamaal aahes yaar
+514,माझ्याकडे 2 गाड्या आहे,Neutral,majhyakade 2 cars aahe,majhyakade 2 cars
+515,मी आणतो ना तुझे कपडे,Neutral,me aanto na tujhe kapde,aanto tujhe kapde
+516,तुझी चावी हरवली यार,Negative,tujhi chavi haravli yaar,chavi haravli yaar
+517,मी नाही झोपलो,Negative,me nahi jhoplo,jhoplo
+518,मला एक आवाज आला,Neutral,mala ek aavaj aala,aavaj
+519,मी पण तो ऐकला,Neutral,me pan to aikla,aikla
+520,मला ते जस्ट सापडलं,Positive,mala te just sapadla,just sapadla
+521,तू टॉम ला तर ओळखतच असशील,Neutral,tu tom la tar olkhatach ashshil,tu tom la olkhatach ashshil
+522,मी तिला ओळखतो,Neutral,me tila olakhto,olakhto
+523,मी कोण आहे माहित आहे का?,Neutral,me kon aahe mahit aahe ka,mahit
+524,मला कार्टून आवडतात,Positive,mala cartoon aavadtaat,cartoon aavadtaat
+525,तू माझ्यासोबत पिक्चर बघायला येशील का?,Positive,tu majhyasobat picture baghayla yeshil ka,tu majhyasobat picture baghayla yeshil
+526,मला भांडायला आवडतं,Neutral,mala bhandayla aavadta,bhandayla aavadta
+527,मला डान्स आवडतो,Positive,mala dance aavadto,dance aavadto
+528,मी खूप वेग वेगळे डान्स करू शकतो,Positive,me khoop veg vegle dance karu shakto,khoop veg vegle dance shakto
+529,स्वप्न पाहणे हा माझा छंद आहे,Positive,svapna pahane ha majha chand aahe,svapna pahane chand
+530,मी जपान मध्ये राहतो,Neutral,me japan madhe rahto,japan madhe rahto
+531,मी टॉम सारखा दिसतो,Neutral,me tom sarkha disto,tom sarkha disto
+532,माझा फोन कुठेतरी हरवला,Negative,majha phone kuthetari haravla,phone kuthetari haravla
+533,माझं वॉलेट पण हरवला,Negative,majha wallet pan haravla,wallet haravla
+534,मला शिकायला आवडतं,Positive,mala shikayla aavadta,shikayla aavadta
+535,मला शिकवायला पण आवडतं,Positive,mala shikvayla pan aavadta,shikvayla aavadta
+536,मला लेखनाची आवड आहे,Positive,mala lekhanachi aavad aahe,lekhanachi aavad
+537,मला एक पेन्सिल देतेस का?,Neutral,mala ek pencil detes ka,pencil detes
+538,मी हेल्मेट घेऊन येतो,Neutral,me helmet gheun yeto,helmet yeto
+539,मला तुझी एक हेल्प हविये,Neutral,mala tujhi ek help haviye,help haviye
+540,मी तुझा कैदी आहे,Negative,me tujha kaidi aahe,tujha kaidi
+541,सोड मला इथून जाऊ दे,Negative,sod mala ithun jau de,sod ithun
+542,मी बिल भरतो,Positive,me bill bharto,bill bharto
+543,मला फुटबॉल आवडते,Positive,mala football avadta,football avadta
+544,मी टेनिस खेळायचो,Neutral,me tennis khelaycho,tennis khelaycho
+545,मला कॉफी जास्त आवडते,Positive,mala coffee jasta aavadte,coffee jasta aavadte
+546,मी रोज पाळतो ट्रेडमिल वर,Neutral,me roj palto treadmill var,roj palto treadmill var
+547,मला पळायला आवडतं,Positive,running mala aavadta,running aavadta
+548,मी त्याला नंगा पाहिलं,Negative,me tyala nanga pahila,nanga pahila
+549,जिम मध्ये तो नागडा फिरतो,Negative,gym madhe to naagdach firto,gym madhe naagdach firto
+550,मी दिवसभर झोपलो मस्त पैकी,Positive,me divasbhar zoplo mast paiki,divasbhar zoplo mast paiki
+551,मला चिकन च वास येतोय,Neutral,mala chicken cha vaas yetoy,chicken cha vaas yetoy
+552,मी इंग्लिश बोलतो,Neutral,me english bolto,english bolto
+553,मला इंग्लिश लिहिता देखील येते,Neutral,mala english lihita dekhil yete,english lihita dekhil yete
+554,इतिहास माझा जिवलग विषय आहे,Positive,history majha jivlag vishay aahe,history jivlag vishay
+555,मी ते पुस्तक हरवलं,Negative,me te pustak haravla,pustak haravla
+556,मी तुझी बाजू मान्य करतो,Positive,me tujhi baju manya karto,baju manya karto
+557,मी मदत करायचा प्रयत्न केला देखील,Positive,me help karaycha prayatna kela dekhil,help karaycha prayatna dekhil
+558,मला एक वकील हवाय,Neutral,mala ek vakil havay,vakil havay
+559,मला थोडा चहा मिळेल का?,Neutral,mala thoda chaha milel ka,thoda chaha milel
+560,ती सुंदर बॅग माझीच आहे,Neutral,ti sundar bag majhich aahe,sundar bag majhich
+561,मला स्वप्नात नाचायचे,Neutral,mala svapnaat nachaychay,svapnaat nachaychay
+562,मला झोप आलिये,Neutral,mala zop aaliye,zop aaliye
+563,मला तुझ्याशी काहीतरी बोलायचं आहे,Neutral,mala tujhyashi kahitai bolaychay,tujhyashi kahitai bolaychay
+564,मला तू परत हवी आहेस,Positive,mala tu parat havi aahes,tu parat havi aahes
+565,मला तू परत हवा आहेस,Positive,mala tu parat hava aahes,tu parat hava aahes
+566,मी अजून तुझ्यावर प्रेम करतो,Positive,me ajun tujhyavar prem karto,ajun tujhyavar prem karto
+567,मी अजून तुझ्यावर प्रेम करते,Positive,me ajun tujhyavar prem karte,ajun tujhyavar prem karte
+568,मी सैनिक आहे,Neutral,me sainik aahe,sainik
+569,मी सैनिक होतो,Neutral,me sainik hoto,sainik hoto
+570,मी एक टीचर देखील होतो,Neutral,me ek teacher dekhil hoto,teacher dekhil hoto
+571,मला फाईटिंग येते,Positive,mala fighting yete,fighting yete
+572,मी मार्शल आर्ट चॅम्पियन आहे,Positive,me martial arts champion aahe,martial arts champion
+573,माझ्यावर हल्ला झाला,Negative,majhyvar halla jhala,majhyvar halla
+574,मी तर गाडीत होतो,Neutral,me tar gaadit hoto,gaadit hoto
+575,ट्रेन ने जायला हवं होतं,Neutral,train ni jayla hava hota,train jayla hava
+576,मी शॉपिंग ला चाललोय उद्या,Neutral,me shopping la jatoy udya,shopping la jatoy udya
+577,शॉपिंग ने माझं मन हलकं होतं,Positive,shopping ne majha man halka hota,shopping ne man halka
+578,मी कथा लिहितो,Neutral,me katha lihito,katha lihito
+579,मला गोष्टी लिहायला मजा येते,Positive,mala goshti lihayla maja yete,goshti lihayla maja yete
+580,मला हॉरोर नाही आवडत,Negative,mala horror nahi aavdat,horror aavdat
+581,हॉरोर फार घान आहे,Negative,horror far ghaan aahe,horror far ghaan
+582,मी दहा वाजता येतो,Neutral,me daha vajta yeto,daha vajta yeto
+583,मला थोडा उशीर होईल,Negative,mala thoda ushir hoil,thoda ushir
+584,मी दमलो खूप,Neutral,me damloy khoop,damloy khoop
+585,मी खूप थकलोय,Neutral,me khoop thakloy,khoop thakloy
+586,मी नाही करू शकत ते,Negative,me nahi karu shakat te,shakat
+587,मी तुझा नौकर नाहीये,Negative,me tujha naukar nahiye,tujha naukar nahiye
+588,मी एक इंजिनिअर आहे बरं का,Positive,me ek engineer aahe bar ka,engineer bar
+589,मी पोलिस झालो!,Positive,me police jhalo,police
+590,मी तुला फोन लावतो,Neutral,me tula phone laavto,tula phone laavto
+591,मला काहीच घाई नाहीये,Neutral,mala kahich ghai nahiye,kahich ghai nahiye
+592,मी नुस्तं विचारलं,Neutral,me just vicharla,just vicharla
+593,मी जाऊ तुला सोडून?,Neutral,me jau tula sodun,tula sodun
+594,नको जाऊस मला सोडून,Neutral,nako jaus mala sodun,nako jaus sodun
+595,मी रडेन तू गेलीस तर,Negative,me raden tu gelis tar,raden tu gelis
+596,मी रडेन तू गेलास तर,Negative,me raden tu gelas tar,raden tu gelas
+597,मी काय चोर वाटतो तुला?,Negative,me kay chor vaatlo ka tula,chor vaatlo tula
+598,तू माझ्यावर चोरी चा आढ घेतोय,Negative,tu majhyavar chori cha aadh ghetoys,tu majhyavar chori cha aadh ghetoys
+599,मी भांडत नाहीये,Neutral,me bhandat nahiye,bhandat nahiye
+600,मी तुला मारून इथेच गाडेन,Negative,me tula marun ithech gaaden,tula marun ithech gaaden
+601,मी अजून जिवंत आहे,Neutral,me ajun jivanta aahe,ajun jivanta
+602,मला तर लाजच वाटते,Neutral,mala tar laajach vattey,laajach vattey
+603,मला खूप भूक लागली आहे,Neutral,mala khoop bhook laagli aahe,khoop bhook
+604,मला काही खायला मिळेल का?,Neutral,mala kahi khayla milel ka,khayla milel
+605,अरे वाह! किती गोड आहे हा चहा,Positive,arrey wah kiti god aahe ha chaha,arrey wah kiti god chaha
+606,मी तुझा आभारी आहे,Positive,me tujha aabhari aahe,tujha aabhari
+607,तू अॅक्टर आहेस का?,Neutral,tu actor aahes ka,tu actor aahes
+608,हो मी एक कलावंत आहे,Neutral,ho me ek kalavant aahe,kalavant
+609,तुझ्या स्वप्नात आलेलो का मी?,Neutral,tujhay svapnaat aalelo ka me,tujhay svapnaat aalelo
+610,इथे कोणी आहे का?,Neutral,ithe koni aahe ka,ithe koni
+611,तिथे कोणी लपलाय का?,Neutral,tithe koni lapay ka,tithe koni lapay
+612,चल ना दारू पाजतो तुला,Neutral,chal na daru paajto tula,chal daru paajto tula
+613,नको मी मध्यपान नाही करत,Positive,nako me madhyapaan nahi karat,nako madhyapaan
+614,तो श्वास घेतोय का? का मला!,Neutral,to shvaas ghetoy ka ke mela,shvaas ghetoy ke mela
+615,बातमी गोड आहे,Positive,baatmi god aahe,baatmi god
+616,बातमी वाईट आहे,Negative,baatmi vait aahe,baatmi vait
+617,बातमी काय आहे सांगशील??,Neutral,baatmi kay aahe sangshil,baatmi sangshil
+618,हे खूप लहान आहे का?,Neutral,he khoop lahan aahe ka,khoop lahan
+619,ती काय जपानी आहे का?,Neutral,ti kay japani aahe ka,japani
+620,तो कुठला पक्षी आहे?,Neutral,to kuthla pakshi aahe,kuthla pakshi
+621,तो कुठला प्राणी आहे?,Neutral,to kuthla praani aahe,kuthla praani
+622,तो पक्षी किती रुबाबदार आहे,Positive,to pakshi kiti rubabdaar aahe,pakshi kiti rubabdaar
+623,तो वाघ किती भारी आहे,Positive,to vagh kiti bhari aahe,vagh kiti bhari
+624,तुझ्याकडे क्रेडिट कार्ड आहे का?,Neutral,tujhyakade credit card aahe ha,tujhyakade credit card
+625,मला कार्ड हवं आहे,Neutral,mala card hava aahe,card hava
+626,ती बँक सर्वात छान आहे,Positive,ti bank sarvat chaan aahe,bank sarvat chaan
+627,ती बँक सर्वात घान आहे,Negative,ti bank sarvat ghaan aahe,bank sarvat ghaan
+628,मला एक छान गाणं ऐकव,Positive,mala ek chaan gaana aikav,chaan gaana aikav
+629,तू तुझं तोंड काळं कर,Negative,tu tujha tond kala kar,tu tujha tond kala kar
+630,तू घरात कुठून आला?,Neutral,tu gharat kuthun aala,tu gharat kuthun
+631,मी तुला बाहेर काढेन,Negative,me tula baher kaden,tula baher kaden
+632,तू किती निर्लज्ज आहे,Negative,tu kiti nirlajja aahe,tu kiti nirlajja
+633,तुला दुसरं काहीच काम नाही का?,Neutral,tula dusra kahich kaam nahi ka,tula dusra kahich
+634,असं विचित्र का वागतोय?,Neutral,asa vichitra ka vagtoys,vichitra vagtoys
+635,सासू पेक्षा सून श्रेष्ठ,Positive,sasu peksha soon shreshta,sasu peksha soon shreshta
+636,सूने पेक्षा सासू बिनडोक,Negative,sune peksha sasu bindok,sune peksha sasu bindok
+637,त्याने खूप मेहनत केली,Positive,tyane khoop mehnat keli,tyane khoop mehnat
+638,शॉपिंग केली तर खर्च होतो,Neutral,shopping keli tar kharcha hoto,shopping kharcha hoto
+639,आजकालच्या मुव्हीज खूप बोरिंग आहे,Negative,aajkalchya movies khoop boring aahe,aajkalchya movies khoop boring
+640,मला ते तसच हवंय,Neutral,mala te tasach havay,tasach havay
+641,आपण फार लहान आहोत,Neutral,aapan far lahan aahot,far lahan aahot
+642,सांग मला मी काय करू,Neutral,sang mala me kay karu,sang
+643,मी तुझा मुलगा आहे का?,Neutral,me tujha mulga aahe ka,tujha mulga
+644,मला आवडेल तुला आई म्हणायला,Positive,mala aavdel tula aai mhanayla,aavdel tula aai mhanayla
+645,तू ती इमारत बनवलीस का?,Neutral,tu ti building banavlis ka,tu building banavlis
+646,फार उचं आहे ती इमारत,Neutral,far uncha aahe ti imarat,far uncha imarat
+647,ती सोसायटी तर एकदम श्रीमंत आहे,Positive,ti society tar ekdum shrimant aahe,society ekdum shrimant
+648,तू राहायला कुठे आहेस?,Neutral,tu rahayla kuthe aahes,tu rahayla kuthe aahes
+649,आला रे आला!,Neutral,aala re aala,re
+650,सचिन माझा फेवरेट आहे,Positive,sachin majha favourite aahe,sachin favourite
+651,मला क्रिकेट फार आवडतं,Positive,mala cricket far avadta,cricket far avadta
+652,फुटबॉल तर माझी जान आहे,Positive,footbal tar majhi jaan aahe,footbal jaan
+653,तुला अजुन कुठले खेळ आवडतात?,Neutral,tula ajun kuthle khel aavadtat,tula ajun kuthle khel aavadtat
+654,मला कराटे एकदम छान येतं,Positive,mala karate ekdum chaan yeta,karate ekdum chaan yeta
+655,चल लग्न करून पळून जाऊया,Neutral,chal lagna karun palun jauya,chal lagna palun jauya
+656,आपण आपलं काम करूया,Neutral,apan apla kaam karuya,apan apla karuya
+657,मी एक केक बेक करू का?,Neutral,me ek cake bake karu ka,cake bake
+658,केक ची चव एकदम सुपर आहे,Positive,cake chi taste ekdum super aahe,cake chi taste ekdum super
+659,बघ निसर्ग किती सुंदर आहे,Positive,bagh nisarga kiti sundar aahe,bagh nisarga kiti sundar
+660,बघ पोरी किती सुंदर आहे,Positive,bagh pori kiti sundar aahe,bagh pori kiti sundar
+661,बघ ती किती सुंदर आहे,Positive,bagh ti kiti sundar aahe,bagh kiti sundar
+662,मी हे इथे ठेऊ का?,Neutral,me he ithe thevu ka,ithe thevu
+663,मला थोडासा आराम करायचा आहे,Neutral,mala thodasa aaram karaycha aahe,thodasa aaram karaycha
+664,माझे कुत्रे एकदम शुद्ध आहे,Neutral,majhe kutre ekdum pure aahe,majhe kutre ekdum pure
+665,माझे कान वाजताय,Neutral,majhe kaan vaajtay,majhe kaan vaajtay
+666,माझे वडील फार उंच आहे,Neutral,majhe vadil far uncha aahe,majhe vadil far uncha
+667,माझे हाथ बांधले आहे,Neutral,majhe haath bandhle aahe,majhe haath bandhle
+668,तुझ्याशिवाय मन नाही रमत,Neutral,tujhyashivay man nahi ramat,tujhyashivay man ramat
+669,काय करू मी यार?,Neutral,kay karu me yaar,yaar
+670,आता हे होणे शक्य नाही,Neutral,ata he hone shakya nahi,ata shakya
+671,तुझ्यासाठी मी चंद्र तोडून आणेन,Neutral,tujhyasathi me chandra todun aanen,tujhyasathi chandra todun aanen
+672,ती गाणं गायला लागली,Neutral,ti gana gayla lagli,gana gayla lagli
+673,ती घाणेरडं गाणं गायला लागली,Negative,ti ghanerda gaana gayla laagli,ghanerda gaana gayla
+674,ती सुंदर गाणं गाऊ लागली,Positive,ti sundar gaana gau lagli,sundar gaana gau lagli
+675,तो खूप उंच उडी मारतो,Positive,to khoop uncha udi maarto,khoop uncha udi maarto
+676,ती खूप उंच उडी मारते,Positive,ti khoop uncha udi maarte,khoop uncha udi maarte
+677,तो मला थांबवतोय,Neutral,to mala thambavtoy,thambavtoy
+678,ती मला थांबवतेय,Neutral,ti mala thambavtey,thambavtey
+679,तो जास्त लांब नाही जाऊ शकत,Neutral,to jasta laamb nahi jau shakat,jasta laamb shakat
+680,ती जास्त लांब जाऊ शकते,Neutral,ti jasta lamb jau shakte,jasta lamb shakte
+681,तिच्याकडे फोटो आहे,Neutral,tichayakade photo aahe,tichayakade photo
+682,त्याच्याकडे फोटो आहे,Neutral,tyachyakade photo aahe,tyachyakade photo
+683,तिचे डोळे निळे आहे,Neutral,tiche dole nile aahe,tiche dole nile
+684,त्याचे डोळे काळे आहे,Neutral,tyache dole kale aahe,tyache dole kale
+685,ती रडायला सुरू करेल,Negative,ti radayla suru karel,radayla karel
+686,तो रडायला सुरू करेल,Negative,to radayla suru karel,radayla karel
+687,ती खूप आकर्षक आहे,Positive,ti khoop aakarshak aahe,khoop aakarshak
+688,तो खूप आकर्षक आहे,Positive,to khoop aakarshak aahe,khoop aakarshak
+689,तो तिचा मित्र आहे,Neutral,to ticha mitra aahe,ticha mitra
+690,ती त्याची मैत्रीण आहे,Neutral,ti tyachi maitrin aahe,maitrin
+691,तिने आजुबाजुला बघितलं,Neutral,tine ajubajula baghitla,tine ajubajula baghitla
+692,त्याने तिच्याकडे दगड फेकला,Negative,tyane tichyakade dagad fekla,tyane tichyakade dagad fekla
+693,तिने माझी हजामत केली,Negative,tine majhi hajamat keli,tine hajamat
+694,तू मला सांगितलं नाहीस,Neutral,tu mala sangitla nahis,tu sangitla nahis
+695,तिने मला सांगितलं नाही,Neutral,tine mala sangitla nahi,tine sangitla
+696,तिला जर्मन बोलता येते,Positive,tila german bolta yete,german bolta yete
+697,त्याला जर्मन बोलता येते,Positive,tyala german bolta yete,german bolta yete
+698,ती त्याला घेऊन घरी गेली,Neutral,ti tyala gheun ghari geli,ghari
+699,तो तिला घेऊन घरी गेला,Neutral,to tila gheun ghari gela,ghari
+700,मला त्यांचा फोटो दाखव,Neutral,mala tyancha photo dakhav,tyancha photo dakhav
+701,ते सुंदर फोटो कुठे आहेत?,Neutral,te sundar photo kuthe aahet,sundar photo kuthe
+702,ह्या फुलाचा वास घे,Neutral,hya fulacha vaas ghe,hya fulacha vaas ghe
+703,आत कोणीतरी आहे,Neutral,aat konitari aahe,aat konitari
+704,कोणीतरी बोलत आहे,Neutral,konitari bolat aahe,konitari bolat
+705,माझ्यापासून लांब रहा,Neutral,majhyapasun laamb raha,majhyapasun laamb raha
+706,मला छेडू नकोस,Negative,mala chedhu nakos,chedhu nakos
+707,मला ते आवडत नाही,Negative,mala te aavdat nahi,aavdat
+708,किती विचित्र आहे ना?,Neutral,kiti vichitra aahe na,kiti vichitra
+709,तू खोटारडी निघशिल असं वाटलं नव्हतं,Negative,tu khotardi nighshil asa vatla nahvta,tu khotardi nighshil vatla nahvta
+710,तू खोटारडा निघशील असं वाटलं नव्हतं,Negative,tu khotarda nighshil asa vatla nhavta,tu khotarda nighshil vatla nhavta
+711,मला आता खरं खरं सांग,Neutral,mala aata khara khara sang,khara khara sang
+712,काळजी केल्याबद्दल धन्यवाद,Positive,kalji kelyabaddal dhanyawad,kalji kelyabaddal dhanyawad
+713,तो मुलगा हुशार आहे,Positive,to mulga hushar aahe,mulga hushar
+714,ती मुलगी हुशार आहे,Positive,ti mulgi hushar aahe,mulgi hushar
+715,चतुराई एक कला आहे,Positive,chaturai ek kala aahe,chaturai kala
+716,खेळ फार मजेदार होता,Positive,khel faar majedaar hota,khel faar majedaar
+717,तो बंगला किती मोठा आहे,Positive,to bangla kiti motha aahe,bangla kiti motha
+718,ती झोपडी किती लहान आहे,Negative,ti zopdi kiti lahaan aahe,zopdi kiti lahaan
+719,ही जमीन थंड आहे,Neutral,hi jameen thanda aahe,hi jameen thanda
+720,हे सरबत थंड आहे,Neutral,he sarbat thanda aahe,sarbat thanda
+721,हा चहा किती गरम आहे,Neutral,ha chaha kiti garam aahe,chaha kiti garam
+722,ती त्याची बायको आहे,Neutral,ti tyachi bayko aahe,bayko
+723,तो तिचा नवरा आहे,Neutral,to ticha navra aahe,ticha navra
+724,तिने घंटी वाजवली,Neutral,tine ghanti vajavli,tine ghanti vajavli
+725,तो नेहमी खरं बोलतो,Positive,to nehmi khara bolto,nehmi khara bolto
+726,ती नेहमी खोटं बोलते,Negative,ti nehmi khota bolte,nehmi khota bolte
+727,ते परत नाही घडणार,Neutral,te parat nahi ghadnaar,parat ghadnaar
+728,तो माझा जिवलग मित्र आहे,Positive,to majha jivlag mitra aahe,jivlag mitra
+729,ती माझी जिवलग मैत्रीण आहे,Positive,ti majhi jivlag maitrin aahe,jivlag maitrin
+730,ती त्याची शत्रू आहे,Negative,ti tyachi shatru aahe,shatru
+731,तो तिचा शत्रू आहे,Negative,to ticha shatru aahe,ticha shatru
+732,तो सगळ्यांचा शत्रू आहे,Negative,to saglyancha shatru aahe,saglyancha shatru
+733,तो कोणालाच आवडत नाही,Negative,to konalach aavdat nahi,konalach aavdat
+734,ती कोणालाच आवडत नाही,Negative,ti konalach aavdat nahi,konalach aavdat
+735,ती सगळ्यांना शिवी देते,Negative,ti saglyanna shivi dete,saglyanna shivi dete
+736,तो मुलगा दमलेला,Neutral,to mulga damlela,mulga damlela
+737,ती मुलगी दमलेली,Neutral,ti mulgi damleli,mulgi damleli
+738,ती त्याला चावली,Positive,ti tyala chaavli,chaavli
+739,तो तिला चावला,Negative,to tila chaavla,chaavla
+740,कॉफी फारच गरम होती म्हणून सांडली,Negative,coffee farach garam hoti mhanun sandli,coffee farach garam sandli
+741,कॉफी एकदम भंगार होती म्हणून टाकून दिली,Negative,coffee ekdum bhangar hoti mhanun takun dili,coffee ekdum bhangar takun
+742,चेक बाऊन्स झाला ना,Negative,cheque bounce jhala na,cheque bounce
+743,बँकेत पैसेच नाहीयेत तर काय होणार?,Negative,banket paisech nahiye tar kay honar,banket paisech nahiye
+744,आता मी कुठून आणू पैसे?,Neutral,ata me kuthun aanu paise,ata kuthun aanu paise
+745,मला काम धंदा नाहीये ना,Negative,mala kaam dhanda nahiye na,dhanda nahiye
+746,इतका मोठा मार्केट कुठे आहे?,Neutral,itka mota market kuthe aahe,itka mota market kuthe
+747,मला काय माहीत.. तू तुझं बघ,Neutral,mala kay mahit tu tujha bagh,mahit tu tujha bagh
+748,दुखणं आहे का गेलं?,Neutral,dukhna aahe ka gela,dukhna
+749,मला फार त्रास होतोय या सगळ्यांचा,Negative,mala far traas hotoy ya saglyancha,far traas hotoy saglyancha
+750,माझं डोकं दुखायला लागलंय तुझ्यामुळे,Negative,majha doka dukhayla laglay tujhyamule,doka dukhayla laglay tujhyamule
+751,तुला कितीही समजावलं तरी तू बिंडोकच राहणार,Negative,tula kitihi samjavla tari tu bindokach rahnaar,tula kitihi samjavla tu bindokach rahnaar
+752,हा फोन किती स्वस्त आहे,Positive,ha phone kiti svasta aahe,phone kiti svasta
+753,इथे भाडे किती कमी आहे,Positive,ithe rent kiti kami aahe,ithe rent kiti
+754,ही अफवा कोणी पसरवली?,Neutral,hi afwa koni pasravli,hi afwa koni pasravli
+755,सूर्य एक तारा आहे,Neutral,surya ek tara aahe,surya tara
+756,तारा आणि सितारा माझे मुले आहे,Neutral,tara ani sitara majhe mule aahe,tara ani sitara majhe mule
+757,तारा वाया गेलेली मुलगी आहे,Negative,tara vaya geleli mulgi aahe,tara vaya geleli mulgi
+758,टाकी रिकामी कोणी केली?,Neutral,taki rikami koni keli,taki rikami koni
+759,पाण्याची टाकी तू भरलीस का?,Neutral,panyachi taki tu bharlis ka,panyachi taki tu bharlis
+760,पाणी किती गढूळ आहे!,Negative,pani kiti gadhul aahe,pani kiti gadhul
+761,हे पाणी विषारी आहे,Negative,he pani vishari aahe,pani vishari
+762,ही पण नालायक आहे,Negative,hi pan nalayak aahe,hi nalayak
+763,पाणी खूप गरम आहे,Negative,pani khoop garam aahe,pani khoop garam
+764,मी नाही करणार अंघोळ,Negative,me nahi karnaar anghol,karnaar anghol
+765,मला घाणेरडं राहायला आवडतं,Negative,mala ghanerda rahayla aavadta,ghanerda rahayla aavadta
+766,मी दिवाळी साजरी करणार,Positive,me diwali sajri karnaar,diwali sajri karnaar
+767,पोल्युशन नाही केलं पाहिजे आपण,Positive,pollution nahi kela pahije aapan,pollution pahije
+768,कचरा देखील नाही टाकला पाहिजे,Positive,kachra dekhil nahi kela pahije,kachra dekhil pahije
+769,स्वच्छ भारत अभियान चांगली स्कीम आहे,Positive,swachcha bharat abhiyaan changli scheme aahe,swachcha bharat abhiyaan changli scheme
+770,मोदी आपला प्रधान मंत्री आहे,Neutral,modi aapla pradhan mantri aahe,modi aapla pradhan mantri
+771,आम्ही सगळे गावी जातोय,Neutral,aamhi sagle gaavi jaatoy,gaavi jaatoy
+772,मला केळ आवडतं,Positive,mala banana aavadto,banana aavadto
+773,तिला केळ आवडतं,Positive,tila banana aavadto,banana aavadto
+774,फळं हेल्थ साठी चांगले असतात,Positive,fruits health sathi changle astaat,fruits health sathi changle astaat
+775,ताज्या ताज्या भाज्या खाल्ल्या पाहिजे,Positive,tajya tajya bhajya khallya pahije,tajya tajya bhajya khallya pahije
+776,लादी पुसून काढ,Neutral,ladi pusun kaadh,ladi pusun kaadh
+777,तू या घरची नोकर आहेस,Negative,tu ya gharchi naukar aahes,tu gharchi naukar aahes
+778,तू या घरचा नोकर आहेस,Positive,tu ya gharcha javai aahes,tu gharcha javai aahes
+779,तुझ्यासाठी पोरगी बघितली आहे,Neutral,tujhyasathi porgi baghitli aahe,tujhyasathi porgi baghitli
+780,पोरगी फार सुंदर आहे दिसायला,Positive,porgi far sundar aahe disayla,porgi far sundar disayla
+781,तुला नक्की आवडेल ती!,Positive,tula nakki avdel ti,tula nakki avdel
+782,आता बेकी कोण आहे?,Neutral,ata becky kon aahe,ata becky
+783,मला नाही करायचं काही जेवायला,Negative,mala nahi karaycha kahi jevayla,karaycha jevayla
+784,चल ना उद्या जाऊया मार्केट ला,Neutral,chal na udya jauya market la,chal udya jauya market la
+785,मला फार खरेदी करायची आहे,Neutral,mala far kharedi karaychi aahe,far kharedi karaychi
+786,ए नाकतोड्या इकडे ये!,Negative,a naktodya ikde ye,a naktodya ikde ye
+787,तू इथे येतोस का तिथे येऊन तुझी पप्पी घेऊ?,Neutral,tu ithe yetos ka tithe yeun tujhi pappi gheu,tu ithe yetos tithe yeun pappi
+788,ये इथे आणि घे पप्पी!,Positive,ye ithe ani ghe pappi,ye ithe ani ghe pappi
+789,प्लीज मला सोड इथेच,Negative,please mala sod ithech,please sod ithech
+790,डिव्होर्स हवाय मला,Negative,divorce havay mala,divorce havay
+791,मी मही देणार तुला डिव्होर्स,Neutral,me nahi denar tula divorce,denar tula divorce
+792,तू माझी बायको आहेस ना?,Neutral,tu majhi bayko aahes na,tu bayko aahes
+793,हो पण तू माझा नवरा नाहीये,Negative,ho pan tu majha navra nahiyes,tu navra nahiyes
+794,ए जाऊदे ना आता का चिडतेस?,Neutral,aye jaude na ata ka chidtes,aye jaude ata chidtes
+795,मग काय नाचू तुझ्यासाठी?,Neutral,mag kay nachu tujhyasathi,mag nachu tujhyasathi
+796,जा आणि जेवण घेऊन ये,Neutral,ja ani jevan gheun ye,ani jevan ye
+797,हो! तुझ्यासाठी एकदम भारी जेवण आणतो,Positive,ho tujhyasathi ekdum bhari jevan aanto,tujhyasathi ekdum bhari jevan aanto
+798,तू फक्त चिडू नकोस!,Neutral,tu fakta chidu nakos,tu fakta chidu nakos
+799,रात्री खेळ खेळूया का?,Neutral,ratri khel kheluya ka,ratri khel kheluya

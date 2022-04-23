@@ -2,7 +2,33 @@
 <html>
 <body>
     <!-- Input for ML model -->
-    <h1>मी काम करतोय</h1>
+    <h1>Suggestions:</h1>
+    <table>
+        <tr>
+          <td>मी ठीक आहे</td>
+        </tr>
+        <tr>
+            <td>आम्ही जिंकलो</td>
+        </tr>
+        <tr>
+            <td>आपण सगळे जिंकलो</td>
+        </tr>
+        <tr>
+            <td>मला कॉल कर</td>
+        </tr>
+        <tr>
+            <td>मी तुला कॉल करतो</td>
+        </tr>
+        <tr>
+            <td>आम्हाला कॉल कर</td>
+        </tr>
+        <tr>
+            <td>तू जेवलास का?</td>
+        </tr>
+        <tr>
+            <td>एकदम छान घडी घातलिस</td>
+        </tr>
+      </table>
     <br>
     <form action="{{ url_for('model')}}" method="post">
         <input type="text" name="emotion_calculator" placeholder="Analysis" required="required">
